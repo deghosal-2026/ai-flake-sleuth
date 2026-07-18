@@ -1,0 +1,22 @@
+{
+  "run_id": 29382642893,
+  "workflow_name": "Check commit prefix",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T01:51:04+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29382642893",
+  "jobs": [
+    {
+      "job_id": 87249380124,
+      "name": "check-commit-suffix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87249380124\", id=87249380124)>"
+    },
+    {
+      "job_id": 87249392055,
+      "name": "check-commit-prefix",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87249392055\", id=87249392055)>"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "run_id": 28482910392,
+  "workflow_name": "test",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-06-30T23:37:11+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/28482910392",
+  "jobs": []
+}

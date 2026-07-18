@@ -1,0 +1,16 @@
+{
+  "run_id": 29610576682,
+  "workflow_name": "\ud83c\udff7\ufe0f PR Labeler",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:16:05+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610576682",
+  "jobs": [
+    {
+      "job_id": 87984006592,
+      "name": "label",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984006592\", id=87984006592)>"
+    }
+  ]
+}

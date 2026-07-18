@@ -1,0 +1,22 @@
+{
+  "run_id": 29506524154,
+  "workflow_name": "\u26a1 CodSpeed",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T14:25:30+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29506524154",
+  "jobs": [
+    {
+      "job_id": 87648586206,
+      "name": "Detect Changes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648586206\", id=87648586206)>"
+    },
+    {
+      "job_id": 87648649202,
+      "name": "\u26a1 CodSpeed Benchmarks",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648649202\", id=87648649202)>"
+    }
+  ]
+}

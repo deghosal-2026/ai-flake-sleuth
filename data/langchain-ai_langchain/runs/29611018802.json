@@ -1,0 +1,16 @@
+{
+  "run_id": 29611018802,
+  "workflow_name": "Configured Graph Update: uv in /libs/partners/huggingface #1465570211",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:23:31+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29611018802",
+  "jobs": [
+    {
+      "job_id": 87985461506,
+      "name": "update-uv-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87985461506\", id=87985461506)>"
+    }
+  ]
+}

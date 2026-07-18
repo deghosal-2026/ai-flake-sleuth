@@ -1,0 +1,22 @@
+{
+  "run_id": 29407101474,
+  "workflow_name": "Selenium Tests",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-15T10:09:02+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29407101474",
+  "jobs": [
+    {
+      "job_id": 87325115547,
+      "name": "SQLite",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87325115547\", id=87325115547)>"
+    },
+    {
+      "job_id": 87325138074,
+      "name": "PostgreSQL",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87325138074\", id=87325138074)>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "run_id": 29567449106,
+  "workflow_name": "\ud83c\udff7\ufe0f PR Title Lint",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T08:44:12+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29567449106",
+  "jobs": [
+    {
+      "job_id": 87843172876,
+      "name": "validate format",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87843172876\", id=87843172876)>"
+    }
+  ]
+}

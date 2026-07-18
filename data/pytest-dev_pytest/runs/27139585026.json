@@ -1,0 +1,16 @@
+{
+  "run_id": 27139585026,
+  "workflow_name": "Graph Update: pip in /. #1402712995",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-06-08T13:04:36+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27139585026",
+  "jobs": [
+    {
+      "job_id": 80100876039,
+      "name": "update-pip-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/80100876039\", id=80100876039)>"
+    }
+  ]
+}

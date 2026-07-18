@@ -1,0 +1,526 @@
+{
+  "run_id": 29589392881,
+  "workflow_name": "\ud83d\udd27 CI",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-07-17T14:46:49+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29589392881",
+  "jobs": [
+    {
+      "job_id": 87914387070,
+      "name": "Validate Release Options",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914387070\", id=87914387070)>"
+    },
+    {
+      "job_id": 87914387107,
+      "name": "Detect Changes & Set Matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914387107\", id=87914387107)>"
+    },
+    {
+      "job_id": 87914427738,
+      "name": "Extended Tests (libs/langchain, 3.14)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427738\", id=87914427738)>"
+    },
+    {
+      "job_id": 87914427759,
+      "name": "Extended Tests (libs/langchain_v1, 3.14)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427759\", id=87914427759)>"
+    },
+    {
+      "job_id": 87914427766,
+      "name": "Extended Tests (libs/langchain, 3.10)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427766\", id=87914427766)>"
+    },
+    {
+      "job_id": 87914427768,
+      "name": "Extended Tests (libs/langchain_v1, 3.10)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427768\", id=87914427768)>"
+    },
+    {
+      "job_id": 87914427770,
+      "name": "Extended Tests (libs/core, 3.11)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427770\", id=87914427770)>"
+    },
+    {
+      "job_id": 87914427788,
+      "name": "Extended Tests (libs/text-splitters, 3.10)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427788\", id=87914427788)>"
+    },
+    {
+      "job_id": 87914427794,
+      "name": "Extended Tests (libs/model-profiles, 3.14)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427794\", id=87914427794)>"
+    },
+    {
+      "job_id": 87914427806,
+      "name": "Extended Tests (libs/text-splitters, 3.14)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427806\", id=87914427806)>"
+    },
+    {
+      "job_id": 87914427818,
+      "name": "Extended Tests (libs/core, 3.10)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427818\", id=87914427818)>"
+    },
+    {
+      "job_id": 87914427834,
+      "name": "Extended Tests (libs/model-profiles, 3.10)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427834\", id=87914427834)>"
+    },
+    {
+      "job_id": 87914427839,
+      "name": "Extended Tests (libs/core, 3.12)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427839\", id=87914427839)>"
+    },
+    {
+      "job_id": 87914427848,
+      "name": "Extended Tests (libs/core, 3.13)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427848\", id=87914427848)>"
+    },
+    {
+      "job_id": 87914427930,
+      "name": "Extended Tests (libs/core, 3.14)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914427930\", id=87914427930)>"
+    },
+    {
+      "job_id": 87914428178,
+      "name": "VCR Cassette Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914428178\", id=87914428178)>"
+    },
+    {
+      "job_id": 87914429056,
+      "name": "lint (libs/core, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429056\", id=87914429056)>"
+    },
+    {
+      "job_id": 87914429089,
+      "name": "lint (libs/text-splitters, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429089\", id=87914429089)>"
+    },
+    {
+      "job_id": 87914429091,
+      "name": "lint (libs/core, 3.12) / Python 3.12",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429091\", id=87914429091)>"
+    },
+    {
+      "job_id": 87914429092,
+      "name": "lint (libs/langchain, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429092\", id=87914429092)>"
+    },
+    {
+      "job_id": 87914429148,
+      "name": "lint (libs/model-profiles, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429148\", id=87914429148)>"
+    },
+    {
+      "job_id": 87914429185,
+      "name": "lint (libs/core, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429185\", id=87914429185)>"
+    },
+    {
+      "job_id": 87914429205,
+      "name": "lint (libs/langchain_v1, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429205\", id=87914429205)>"
+    },
+    {
+      "job_id": 87914429219,
+      "name": "lint (libs/langchain, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429219\", id=87914429219)>"
+    },
+    {
+      "job_id": 87914429234,
+      "name": "lint (libs/core, 3.13) / Python 3.13",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429234\", id=87914429234)>"
+    },
+    {
+      "job_id": 87914429302,
+      "name": "lint (libs/model-profiles, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429302\", id=87914429302)>"
+    },
+    {
+      "job_id": 87914429338,
+      "name": "lint (libs/text-splitters, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429338\", id=87914429338)>"
+    },
+    {
+      "job_id": 87914429364,
+      "name": "lint (libs/core, 3.11) / Python 3.11",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429364\", id=87914429364)>"
+    },
+    {
+      "job_id": 87914429373,
+      "name": "lint (libs/langchain_v1, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429373\", id=87914429373)>"
+    },
+    {
+      "job_id": 87914429406,
+      "name": "test (libs/text-splitters, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429406\", id=87914429406)>"
+    },
+    {
+      "job_id": 87914429408,
+      "name": "test (libs/langchain_v1, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429408\", id=87914429408)>"
+    },
+    {
+      "job_id": 87914429470,
+      "name": "test (libs/core, 3.11) / Python 3.11",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429470\", id=87914429470)>"
+    },
+    {
+      "job_id": 87914429477,
+      "name": "test (libs/model-profiles, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429477\", id=87914429477)>"
+    },
+    {
+      "job_id": 87914429497,
+      "name": "test (libs/core, 3.12) / Python 3.12",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429497\", id=87914429497)>"
+    },
+    {
+      "job_id": 87914429540,
+      "name": "test (libs/core, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429540\", id=87914429540)>"
+    },
+    {
+      "job_id": 87914429562,
+      "name": "test (libs/model-profiles, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429562\", id=87914429562)>"
+    },
+    {
+      "job_id": 87914429616,
+      "name": "test (libs/core, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429616\", id=87914429616)>"
+    },
+    {
+      "job_id": 87914429654,
+      "name": "test (libs/text-splitters, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429654\", id=87914429654)>"
+    },
+    {
+      "job_id": 87914429692,
+      "name": "test (libs/core, 3.13) / Python 3.13",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429692\", id=87914429692)>"
+    },
+    {
+      "job_id": 87914429710,
+      "name": "Compile Integration Tests (libs/core, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429710\", id=87914429710)>"
+    },
+    {
+      "job_id": 87914429744,
+      "name": "Compile Integration Tests (libs/model-profiles, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429744\", id=87914429744)>"
+    },
+    {
+      "job_id": 87914429762,
+      "name": "test (libs/langchain, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429762\", id=87914429762)>"
+    },
+    {
+      "job_id": 87914429842,
+      "name": "test (libs/langchain_v1, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429842\", id=87914429842)>"
+    },
+    {
+      "job_id": 87914429876,
+      "name": "test (libs/langchain, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429876\", id=87914429876)>"
+    },
+    {
+      "job_id": 87914429925,
+      "name": "Compile Integration Tests (libs/model-profiles, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429925\", id=87914429925)>"
+    },
+    {
+      "job_id": 87914429968,
+      "name": "Compile Integration Tests (libs/langchain, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914429968\", id=87914429968)>"
+    },
+    {
+      "job_id": 87914430024,
+      "name": "Compile Integration Tests (libs/core, 3.13) / Python 3.13",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430024\", id=87914430024)>"
+    },
+    {
+      "job_id": 87914430029,
+      "name": "Compile Integration Tests (libs/langchain_v1, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430029\", id=87914430029)>"
+    },
+    {
+      "job_id": 87914430051,
+      "name": "Compile Integration Tests (libs/core, 3.12) / Python 3.12",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430051\", id=87914430051)>"
+    },
+    {
+      "job_id": 87914430052,
+      "name": "Compile Integration Tests (libs/core, 3.11) / Python 3.11",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430052\", id=87914430052)>"
+    },
+    {
+      "job_id": 87914430091,
+      "name": "Compile Integration Tests (libs/core, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430091\", id=87914430091)>"
+    },
+    {
+      "job_id": 87914430093,
+      "name": "Compile Integration Tests (libs/text-splitters, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430093\", id=87914430093)>"
+    },
+    {
+      "job_id": 87914430098,
+      "name": "Compile Integration Tests (libs/langchain, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430098\", id=87914430098)>"
+    },
+    {
+      "job_id": 87914430103,
+      "name": "test-pydantic (libs/model-profiles, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430103\", id=87914430103)>"
+    },
+    {
+      "job_id": 87914430111,
+      "name": "Compile Integration Tests (libs/text-splitters, 3.14) / Python 3.14",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430111\", id=87914430111)>"
+    },
+    {
+      "job_id": 87914430150,
+      "name": "test-pydantic (libs/model-profiles, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430150\", id=87914430150)>"
+    },
+    {
+      "job_id": 87914430169,
+      "name": "test-pydantic (libs/langchain_v1, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430169\", id=87914430169)>"
+    },
+    {
+      "job_id": 87914430202,
+      "name": "Compile Integration Tests (libs/langchain_v1, 3.10) / Python 3.10",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430202\", id=87914430202)>"
+    },
+    {
+      "job_id": 87914430223,
+      "name": "test-pydantic (libs/text-splitters, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430223\", id=87914430223)>"
+    },
+    {
+      "job_id": 87914430244,
+      "name": "test-pydantic (libs/langchain_v1, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430244\", id=87914430244)>"
+    },
+    {
+      "job_id": 87914430245,
+      "name": "test-pydantic (libs/core, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430245\", id=87914430245)>"
+    },
+    {
+      "job_id": 87914430295,
+      "name": "test-pydantic (libs/model-profiles, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430295\", id=87914430295)>"
+    },
+    {
+      "job_id": 87914430321,
+      "name": "test-pydantic (libs/core, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430321\", id=87914430321)>"
+    },
+    {
+      "job_id": 87914430324,
+      "name": "test-pydantic (libs/model-profiles, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430324\", id=87914430324)>"
+    },
+    {
+      "job_id": 87914430516,
+      "name": "test-pydantic (libs/core, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430516\", id=87914430516)>"
+    },
+    {
+      "job_id": 87914430539,
+      "name": "test-pydantic (libs/langchain_v1, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430539\", id=87914430539)>"
+    },
+    {
+      "job_id": 87914430561,
+      "name": "test-pydantic (libs/text-splitters, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430561\", id=87914430561)>"
+    },
+    {
+      "job_id": 87914430604,
+      "name": "test-pydantic (libs/text-splitters, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430604\", id=87914430604)>"
+    },
+    {
+      "job_id": 87914430625,
+      "name": "test-pydantic (libs/langchain, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430625\", id=87914430625)>"
+    },
+    {
+      "job_id": 87914430647,
+      "name": "test-pydantic (libs/core, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430647\", id=87914430647)>"
+    },
+    {
+      "job_id": 87914430660,
+      "name": "test-pydantic (libs/langchain, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430660\", id=87914430660)>"
+    },
+    {
+      "job_id": 87914430674,
+      "name": "test-pydantic (libs/langchain_v1, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430674\", id=87914430674)>"
+    },
+    {
+      "job_id": 87914430692,
+      "name": "test-pydantic (libs/model-profiles, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430692\", id=87914430692)>"
+    },
+    {
+      "job_id": 87914430738,
+      "name": "test-pydantic (libs/core, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430738\", id=87914430738)>"
+    },
+    {
+      "job_id": 87914430739,
+      "name": "test-pydantic (libs/text-splitters, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430739\", id=87914430739)>"
+    },
+    {
+      "job_id": 87914430753,
+      "name": "test-pydantic (libs/text-splitters, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430753\", id=87914430753)>"
+    },
+    {
+      "job_id": 87914430784,
+      "name": "test-pydantic (libs/core, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430784\", id=87914430784)>"
+    },
+    {
+      "job_id": 87914430813,
+      "name": "test-pydantic (libs/langchain, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430813\", id=87914430813)>"
+    },
+    {
+      "job_id": 87914430818,
+      "name": "test-pydantic (libs/text-splitters, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430818\", id=87914430818)>"
+    },
+    {
+      "job_id": 87914430841,
+      "name": "test-pydantic (libs/langchain, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430841\", id=87914430841)>"
+    },
+    {
+      "job_id": 87914430875,
+      "name": "test-pydantic (libs/langchain_v1, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430875\", id=87914430875)>"
+    },
+    {
+      "job_id": 87914430899,
+      "name": "test-pydantic (libs/langchain_v1, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430899\", id=87914430899)>"
+    },
+    {
+      "job_id": 87914430931,
+      "name": "test-pydantic (libs/langchain, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430931\", id=87914430931)>"
+    },
+    {
+      "job_id": 87914430979,
+      "name": "test-pydantic (libs/model-profiles, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914430979\", id=87914430979)>"
+    },
+    {
+      "job_id": 87914431039,
+      "name": "test-pydantic (libs/langchain, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914431039\", id=87914431039)>"
+    },
+    {
+      "job_id": 87914541093,
+      "name": "\u2705 CI Success",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87914541093\", id=87914541093)>"
+    }
+  ]
+}

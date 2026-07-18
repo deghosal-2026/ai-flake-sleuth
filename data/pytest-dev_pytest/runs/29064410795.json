@@ -1,0 +1,16 @@
+{
+  "run_id": 29064410795,
+  "workflow_name": "close needs-information issues",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-10T02:19:53+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/29064410795",
+  "jobs": [
+    {
+      "job_id": 86272821961,
+      "name": "close-issues",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/86272821961\", id=86272821961)>"
+    }
+  ]
+}

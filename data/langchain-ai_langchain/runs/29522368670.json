@@ -1,0 +1,16 @@
+{
+  "run_id": 29522368670,
+  "workflow_name": "\ud83c\udff7\ufe0f PR trailer lint",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T18:03:38+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29522368670",
+  "jobs": [
+    {
+      "job_id": 87702280970,
+      "name": "validate squash-merge has no banned trailers",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87702280970\", id=87702280970)>"
+    }
+  ]
+}

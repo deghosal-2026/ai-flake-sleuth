@@ -1,0 +1,16 @@
+{
+  "run_id": 28879043234,
+  "workflow_name": "Running Copilot Code Review",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-07T15:41:02+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/28879043234",
+  "jobs": [
+    {
+      "job_id": 85661916772,
+      "name": "copilot-pull-request-reviewer",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/85661916772\", id=85661916772)>"
+    }
+  ]
+}

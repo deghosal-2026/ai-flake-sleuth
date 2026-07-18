@@ -1,0 +1,16 @@
+{
+  "run_id": 29174187442,
+  "workflow_name": "Update Plugin List",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-12T00:44:30+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/29174187442",
+  "jobs": [
+    {
+      "job_id": 86600289765,
+      "name": "update-plugin-list",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/86600289765\", id=86600289765)>"
+    }
+  ]
+}

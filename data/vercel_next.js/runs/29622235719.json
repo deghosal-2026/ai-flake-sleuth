@@ -1,0 +1,616 @@
+{
+  "run_id": 29622235719,
+  "workflow_name": "build-and-test",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-18T00:03:42+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29622235719",
+  "jobs": [
+    {
+      "job_id": 88019405292,
+      "name": "Determine changes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019405292\", id=88019405292)>"
+    },
+    {
+      "job_id": 88019405294,
+      "name": "validate-docs-links",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019405294\", id=88019405294)>"
+    },
+    {
+      "job_id": 88019405296,
+      "name": "Upload PR CI metadata",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019405296\", id=88019405296)>"
+    },
+    {
+      "job_id": 88019405340,
+      "name": "build-next / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019405340\", id=88019405340)>"
+    },
+    {
+      "job_id": 88019405355,
+      "name": "optimize-ci / PR Stack Optimizer",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019405355\", id=88019405355)>"
+    },
+    {
+      "job_id": 88019428751,
+      "name": "fetch test timings",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019428751\", id=88019428751)>"
+    },
+    {
+      "job_id": 88019428809,
+      "name": "test devlow package / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019428809\", id=88019428809)>"
+    },
+    {
+      "job_id": 88019428813,
+      "name": "build-native-windows / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019428813\", id=88019428813)>"
+    },
+    {
+      "job_id": 88019428845,
+      "name": "build-native / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019428845\", id=88019428845)>"
+    },
+    {
+      "job_id": 88019485534,
+      "name": "ast-grep lint",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485534\", id=88019485534)>"
+    },
+    {
+      "job_id": 88019485596,
+      "name": "rustdoc check / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485596\", id=88019485596)>"
+    },
+    {
+      "job_id": 88019485612,
+      "name": "test cargo unit / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485612\", id=88019485612)>"
+    },
+    {
+      "job_id": 88019485618,
+      "name": "test cargo benches / Test",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485618\", id=88019485618)>"
+    },
+    {
+      "job_id": 88019485633,
+      "name": "test next-swc wasm / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485633\", id=88019485633)>"
+    },
+    {
+      "job_id": 88019485639,
+      "name": "rust check / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485639\", id=88019485639)>"
+    },
+    {
+      "job_id": 88019485660,
+      "name": "lint / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485660\", id=88019485660)>"
+    },
+    {
+      "job_id": 88019485964,
+      "name": "test next-swc wasi",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019485964\", id=88019485964)>"
+    },
+    {
+      "job_id": 88019607321,
+      "name": "test prod windows / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019607321\", id=88019607321)>"
+    },
+    {
+      "job_id": 88019607334,
+      "name": "test dev windows / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019607334\", id=88019607334)>"
+    },
+    {
+      "job_id": 88019607338,
+      "name": "test integration windows / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019607338\", id=88019607338)>"
+    },
+    {
+      "job_id": 88019607384,
+      "name": "test unit windows (20) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019607384\", id=88019607384)>"
+    },
+    {
+      "job_id": 88019607390,
+      "name": "test unit windows (22) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88019607390\", id=88019607390)>"
+    },
+    {
+      "job_id": 88020021889,
+      "name": "Run devlow benchmarks",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020021889\", id=88020021889)>"
+    },
+    {
+      "job_id": 88020021941,
+      "name": "test rspack dev",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020021941\", id=88020021941)>"
+    },
+    {
+      "job_id": 88020022007,
+      "name": "types and precompiled / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022007\", id=88020022007)>"
+    },
+    {
+      "job_id": 88020022031,
+      "name": "test firefox and safari / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022031\", id=88020022031)>"
+    },
+    {
+      "job_id": 88020022213,
+      "name": "test rspack production",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022213\", id=88020022213)>"
+    },
+    {
+      "job_id": 88020022258,
+      "name": "test next-config-ts-native-ts dev (24.15.0) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022258\", id=88020022258)>"
+    },
+    {
+      "job_id": 88020022263,
+      "name": "test next-config-ts-native-ts dev (22) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022263\", id=88020022263)>"
+    },
+    {
+      "job_id": 88020022267,
+      "name": "test unit (22) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022267\", id=88020022267)>"
+    },
+    {
+      "job_id": 88020022309,
+      "name": "test unit (20) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022309\", id=88020022309)>"
+    },
+    {
+      "job_id": 88020022315,
+      "name": "test turbopack production (4/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022315\", id=88020022315)>"
+    },
+    {
+      "job_id": 88020022333,
+      "name": "test turbopack production (2/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022333\", id=88020022333)>"
+    },
+    {
+      "job_id": 88020022352,
+      "name": "test turbopack production (3/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022352\", id=88020022352)>"
+    },
+    {
+      "job_id": 88020022357,
+      "name": "test turbopack dev (7/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022357\", id=88020022357)>"
+    },
+    {
+      "job_id": 88020022361,
+      "name": "test turbopack production (5/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022361\", id=88020022361)>"
+    },
+    {
+      "job_id": 88020022365,
+      "name": "test turbopack production (7/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022365\", id=88020022365)>"
+    },
+    {
+      "job_id": 88020022366,
+      "name": "test turbopack production (1/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022366\", id=88020022366)>"
+    },
+    {
+      "job_id": 88020022376,
+      "name": "test turbopack production (6/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022376\", id=88020022376)>"
+    },
+    {
+      "job_id": 88020022416,
+      "name": "test turbopack dev (2/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022416\", id=88020022416)>"
+    },
+    {
+      "job_id": 88020022420,
+      "name": "test turbopack dev (4/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022420\", id=88020022420)>"
+    },
+    {
+      "job_id": 88020022432,
+      "name": "test turbopack dev (5/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022432\", id=88020022432)>"
+    },
+    {
+      "job_id": 88020022438,
+      "name": "test turbopack dev (3/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022438\", id=88020022438)>"
+    },
+    {
+      "job_id": 88020022439,
+      "name": "test turbopack dev (1/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022439\", id=88020022439)>"
+    },
+    {
+      "job_id": 88020022444,
+      "name": "test next-config-ts-native-ts prod (22) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022444\", id=88020022444)>"
+    },
+    {
+      "job_id": 88020022465,
+      "name": "test prod (8/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022465\", id=88020022465)>"
+    },
+    {
+      "job_id": 88020022470,
+      "name": "test turbopack dev (6/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022470\", id=88020022470)>"
+    },
+    {
+      "job_id": 88020022473,
+      "name": "test prod (6/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022473\", id=88020022473)>"
+    },
+    {
+      "job_id": 88020022479,
+      "name": "test next-config-ts-native-ts prod (24.15.0) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022479\", id=88020022479)>"
+    },
+    {
+      "job_id": 88020022481,
+      "name": "test prod (9/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022481\", id=88020022481)>"
+    },
+    {
+      "job_id": 88020022483,
+      "name": "test prod (10/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022483\", id=88020022483)>"
+    },
+    {
+      "job_id": 88020022486,
+      "name": "test prod (7/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022486\", id=88020022486)>"
+    },
+    {
+      "job_id": 88020022503,
+      "name": "test prod (1/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022503\", id=88020022503)>"
+    },
+    {
+      "job_id": 88020022518,
+      "name": "test prod (2/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022518\", id=88020022518)>"
+    },
+    {
+      "job_id": 88020022546,
+      "name": "test prod (3/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022546\", id=88020022546)>"
+    },
+    {
+      "job_id": 88020022559,
+      "name": "test prod (4/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022559\", id=88020022559)>"
+    },
+    {
+      "job_id": 88020022563,
+      "name": "test dev (7/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022563\", id=88020022563)>"
+    },
+    {
+      "job_id": 88020022564,
+      "name": "test prod (5/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022564\", id=88020022564)>"
+    },
+    {
+      "job_id": 88020022571,
+      "name": "test dev (3/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022571\", id=88020022571)>"
+    },
+    {
+      "job_id": 88020022588,
+      "name": "test dev (6/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022588\", id=88020022588)>"
+    },
+    {
+      "job_id": 88020022600,
+      "name": "test dev (4/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022600\", id=88020022600)>"
+    },
+    {
+      "job_id": 88020022602,
+      "name": "test dev (10/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022602\", id=88020022602)>"
+    },
+    {
+      "job_id": 88020022619,
+      "name": "test dev (8/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022619\", id=88020022619)>"
+    },
+    {
+      "job_id": 88020022630,
+      "name": "test dev (5/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022630\", id=88020022630)>"
+    },
+    {
+      "job_id": 88020022635,
+      "name": "Test new and changed tests for flakes (prod) (3/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022635\", id=88020022635)>"
+    },
+    {
+      "job_id": 88020022648,
+      "name": "test dev (1/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022648\", id=88020022648)>"
+    },
+    {
+      "job_id": 88020022667,
+      "name": "test dev (9/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022667\", id=88020022667)>"
+    },
+    {
+      "job_id": 88020022671,
+      "name": "Test new and changed tests for flakes (prod) (2/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022671\", id=88020022671)>"
+    },
+    {
+      "job_id": 88020022687,
+      "name": "Test new and changed tests for flakes (dev) (2/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022687\", id=88020022687)>"
+    },
+    {
+      "job_id": 88020022691,
+      "name": "Test new and changed tests for flakes (prod) (4/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022691\", id=88020022691)>"
+    },
+    {
+      "job_id": 88020022704,
+      "name": "Test new and changed tests for flakes (dev) (5/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022704\", id=88020022704)>"
+    },
+    {
+      "job_id": 88020022708,
+      "name": "Test new and changed tests for flakes (prod) (5/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022708\", id=88020022708)>"
+    },
+    {
+      "job_id": 88020022712,
+      "name": "Test new and changed tests for flakes (prod) (1/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022712\", id=88020022712)>"
+    },
+    {
+      "job_id": 88020022725,
+      "name": "Test new and changed tests for flakes (dev) (4/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022725\", id=88020022725)>"
+    },
+    {
+      "job_id": 88020022727,
+      "name": "Test new and changed tests for flakes (dev) (1/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022727\", id=88020022727)>"
+    },
+    {
+      "job_id": 88020022733,
+      "name": "Test new and changed tests for flakes (dev) (3/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022733\", id=88020022733)>"
+    },
+    {
+      "job_id": 88020022741,
+      "name": "test cache components prod (3/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022741\", id=88020022741)>"
+    },
+    {
+      "job_id": 88020022743,
+      "name": "test cache components prod (7/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022743\", id=88020022743)>"
+    },
+    {
+      "job_id": 88020022744,
+      "name": "test cache components prod (1/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022744\", id=88020022744)>"
+    },
+    {
+      "job_id": 88020022745,
+      "name": "test cache components prod (2/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022745\", id=88020022745)>"
+    },
+    {
+      "job_id": 88020022746,
+      "name": "test cache components dev (4/6) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022746\", id=88020022746)>"
+    },
+    {
+      "job_id": 88020022747,
+      "name": "test cache components dev (3/6) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022747\", id=88020022747)>"
+    },
+    {
+      "job_id": 88020022749,
+      "name": "test cache components prod (4/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022749\", id=88020022749)>"
+    },
+    {
+      "job_id": 88020022750,
+      "name": "test cache components prod (5/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022750\", id=88020022750)>"
+    },
+    {
+      "job_id": 88020022762,
+      "name": "test cache components prod (6/7) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022762\", id=88020022762)>"
+    },
+    {
+      "job_id": 88020022763,
+      "name": "test dev (2/10) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022763\", id=88020022763)>"
+    },
+    {
+      "job_id": 88020022764,
+      "name": "test cache components dev (1/6) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022764\", id=88020022764)>"
+    },
+    {
+      "job_id": 88020022786,
+      "name": "test cache components dev (2/6) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022786\", id=88020022786)>"
+    },
+    {
+      "job_id": 88020022789,
+      "name": "test cache components dev (5/6) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022789\", id=88020022789)>"
+    },
+    {
+      "job_id": 88020022802,
+      "name": "test cache components dev (6/6) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88020022802\", id=88020022802)>"
+    },
+    {
+      "job_id": 88021562754,
+      "name": "Test new and changed tests when deployed (cache components) (4/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021562754\", id=88021562754)>"
+    },
+    {
+      "job_id": 88021562765,
+      "name": "Test new and changed tests when deployed (cache components) (5/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021562765\", id=88021562765)>"
+    },
+    {
+      "job_id": 88021562787,
+      "name": "Test new and changed tests when deployed (cache components) (3/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021562787\", id=88021562787)>"
+    },
+    {
+      "job_id": 88021562789,
+      "name": "Test new and changed tests when deployed (cache components) (2/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021562789\", id=88021562789)>"
+    },
+    {
+      "job_id": 88021562803,
+      "name": "Test new and changed tests when deployed (cache components) (1/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021562803\", id=88021562803)>"
+    },
+    {
+      "job_id": 88021660308,
+      "name": "Test new and changed tests when deployed (2/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021660308\", id=88021660308)>"
+    },
+    {
+      "job_id": 88021660310,
+      "name": "Test new and changed tests when deployed (5/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021660310\", id=88021660310)>"
+    },
+    {
+      "job_id": 88021660312,
+      "name": "Test new and changed tests when deployed (4/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021660312\", id=88021660312)>"
+    },
+    {
+      "job_id": 88021660313,
+      "name": "Test new and changed tests when deployed (1/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021660313\", id=88021660313)>"
+    },
+    {
+      "job_id": 88021660364,
+      "name": "Test new and changed tests when deployed (3/5) / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021660364\", id=88021660364)>"
+    },
+    {
+      "job_id": 88021925918,
+      "name": "thank you, next",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021925918\", id=88021925918)>"
+    }
+  ]
+}

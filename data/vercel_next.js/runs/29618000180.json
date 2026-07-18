@@ -1,0 +1,76 @@
+{
+  "run_id": 29618000180,
+  "workflow_name": "build-and-deploy",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T22:28:49+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29618000180",
+  "jobs": [
+    {
+      "job_id": 88007129714,
+      "name": "deploy-target",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88007129714\", id=88007129714)>"
+    },
+    {
+      "job_id": 88007188648,
+      "name": "generate-native-matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88007188648\", id=88007188648)>"
+    },
+    {
+      "job_id": 88007188652,
+      "name": "build-wasm (nodejs)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88007188652\", id=88007188652)>"
+    },
+    {
+      "job_id": 88007188665,
+      "name": "build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88007188665\", id=88007188665)>"
+    },
+    {
+      "job_id": 88007188673,
+      "name": "build-wasm (web)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88007188673\", id=88007188673)>"
+    },
+    {
+      "job_id": 88007199383,
+      "name": "stable - x86_64-unknown-linux-gnu - node@20",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88007199383\", id=88007199383)>"
+    },
+    {
+      "job_id": 88007215492,
+      "name": "Docs Link Validation",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88007215492\", id=88007215492)>"
+    },
+    {
+      "job_id": 88008457962,
+      "name": "thank you, build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88008457962\", id=88008457962)>"
+    },
+    {
+      "job_id": 88008458004,
+      "name": "Prepare preview tarball",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88008458004\", id=88008458004)>"
+    },
+    {
+      "job_id": 88008458420,
+      "name": "Potentially publish release",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88008458420\", id=88008458420)>"
+    },
+    {
+      "job_id": 88008458703,
+      "name": "Upload Turbopack Bytesize metrics to Datadog",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88008458703\", id=88008458703)>"
+    }
+  ]
+}

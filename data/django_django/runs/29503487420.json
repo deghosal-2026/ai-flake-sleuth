@@ -1,0 +1,16 @@
+{
+  "run_id": 29503487420,
+  "workflow_name": "Labels",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:44:32+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29503487420",
+  "jobs": [
+    {
+      "job_id": 87638146267,
+      "name": "Flag if no Trac ticket is found in the title",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87638146267\", id=87638146267)>"
+    }
+  ]
+}

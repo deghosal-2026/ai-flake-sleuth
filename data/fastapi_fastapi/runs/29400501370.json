@@ -1,0 +1,22 @@
+{
+  "run_id": 29400501370,
+  "workflow_name": "Code Quality: Push on master",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T08:21:30+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29400501370",
+  "jobs": [
+    {
+      "job_id": 87303716694,
+      "name": "Analyze (python)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87303716694\", id=87303716694)>"
+    },
+    {
+      "job_id": 87303716762,
+      "name": "Analyze (javascript-typescript)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87303716762\", id=87303716762)>"
+    }
+  ]
+}

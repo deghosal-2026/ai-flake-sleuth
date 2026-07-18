@@ -1,0 +1,22 @@
+{
+  "run_id": 29415178249,
+  "workflow_name": "pre-commit",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T12:25:50+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29415178249",
+  "jobs": [
+    {
+      "job_id": 87351399973,
+      "name": "pre-commit",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87351399973\", id=87351399973)>"
+    },
+    {
+      "job_id": 87351480183,
+      "name": "pre-commit-alls-green",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87351480183\", id=87351480183)>"
+    }
+  ]
+}

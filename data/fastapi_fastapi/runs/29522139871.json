@@ -1,0 +1,40 @@
+{
+  "run_id": 29522139871,
+  "workflow_name": "Test",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T18:00:30+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29522139871",
+  "jobs": [
+    {
+      "job_id": 87701529767,
+      "name": "changes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87701529767\", id=87701529767)>"
+    },
+    {
+      "job_id": 87701575768,
+      "name": "test-alls-green",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87701575768\", id=87701575768)>"
+    },
+    {
+      "job_id": 87701575810,
+      "name": "benchmark",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87701575810\", id=87701575810)>"
+    },
+    {
+      "job_id": 87701576049,
+      "name": "test",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87701576049\", id=87701576049)>"
+    },
+    {
+      "job_id": 87701576361,
+      "name": "coverage-combine",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87701576361\", id=87701576361)>"
+    }
+  ]
+}

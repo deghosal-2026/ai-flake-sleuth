@@ -1,0 +1,16 @@
+{
+  "run_id": 29616610589,
+  "workflow_name": "Triage issues",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T22:01:55+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29616610589",
+  "jobs": [
+    {
+      "job_id": 88002978656,
+      "name": "Nissuer",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88002978656\", id=88002978656)>"
+    }
+  ]
+}

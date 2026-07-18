@@ -1,0 +1,16 @@
+{
+  "run_id": 27818132240,
+  "workflow_name": "prepare release pr",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-06-19T09:42:09+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27818132240",
+  "jobs": [
+    {
+      "job_id": 82324382426,
+      "name": "build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82324382426\", id=82324382426)>"
+    }
+  ]
+}

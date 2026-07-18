@@ -1,0 +1,16 @@
+{
+  "run_id": 29624457159,
+  "workflow_name": "GeoDjango Tests",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-18T01:03:57+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29624457159",
+  "jobs": [
+    {
+      "job_id": 88025954225,
+      "name": "PostgreSQL ${{ matrix.pg_major }}",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/88025954225\", id=88025954225)>"
+    }
+  ]
+}

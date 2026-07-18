@@ -1,0 +1,286 @@
+{
+  "run_id": 29502338533,
+  "workflow_name": "\ud83d\udd27 CI",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:28:35+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29502338533",
+  "jobs": [
+    {
+      "job_id": 87634182859,
+      "name": "Detect Changes & Set Matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634182859\", id=87634182859)>"
+    },
+    {
+      "job_id": 87634182950,
+      "name": "Validate Release Options",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634182950\", id=87634182950)>"
+    },
+    {
+      "job_id": 87634232363,
+      "name": "Extended Tests (libs/model-profiles, 3.14)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634232363\", id=87634232363)>"
+    },
+    {
+      "job_id": 87634232384,
+      "name": "Extended Tests (libs/langchain, 3.10)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634232384\", id=87634232384)>"
+    },
+    {
+      "job_id": 87634232389,
+      "name": "Extended Tests (libs/langchain_v1, 3.10)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634232389\", id=87634232389)>"
+    },
+    {
+      "job_id": 87634232433,
+      "name": "Extended Tests (libs/model-profiles, 3.10)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634232433\", id=87634232433)>"
+    },
+    {
+      "job_id": 87634232458,
+      "name": "Extended Tests (libs/langchain_v1, 3.14)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634232458\", id=87634232458)>"
+    },
+    {
+      "job_id": 87634232482,
+      "name": "Extended Tests (libs/langchain, 3.14)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634232482\", id=87634232482)>"
+    },
+    {
+      "job_id": 87634233387,
+      "name": "lint (libs/model-profiles, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233387\", id=87634233387)>"
+    },
+    {
+      "job_id": 87634233389,
+      "name": "VCR Cassette Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233389\", id=87634233389)>"
+    },
+    {
+      "job_id": 87634233524,
+      "name": "lint (libs/langchain, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233524\", id=87634233524)>"
+    },
+    {
+      "job_id": 87634233543,
+      "name": "lint (libs/langchain, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233543\", id=87634233543)>"
+    },
+    {
+      "job_id": 87634233555,
+      "name": "lint (libs/langchain_v1, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233555\", id=87634233555)>"
+    },
+    {
+      "job_id": 87634233575,
+      "name": "test (libs/langchain_v1, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233575\", id=87634233575)>"
+    },
+    {
+      "job_id": 87634233579,
+      "name": "lint (libs/model-profiles, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233579\", id=87634233579)>"
+    },
+    {
+      "job_id": 87634233608,
+      "name": "lint (libs/langchain_v1, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233608\", id=87634233608)>"
+    },
+    {
+      "job_id": 87634233685,
+      "name": "test (libs/langchain_v1, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233685\", id=87634233685)>"
+    },
+    {
+      "job_id": 87634233702,
+      "name": "test (libs/model-profiles, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233702\", id=87634233702)>"
+    },
+    {
+      "job_id": 87634233746,
+      "name": "test (libs/langchain, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233746\", id=87634233746)>"
+    },
+    {
+      "job_id": 87634233748,
+      "name": "Compile Integration Tests (libs/langchain, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233748\", id=87634233748)>"
+    },
+    {
+      "job_id": 87634233749,
+      "name": "Compile Integration Tests (libs/langchain_v1, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233749\", id=87634233749)>"
+    },
+    {
+      "job_id": 87634233757,
+      "name": "test (libs/model-profiles, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233757\", id=87634233757)>"
+    },
+    {
+      "job_id": 87634233790,
+      "name": "test (libs/langchain, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233790\", id=87634233790)>"
+    },
+    {
+      "job_id": 87634233819,
+      "name": "Compile Integration Tests (libs/langchain, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233819\", id=87634233819)>"
+    },
+    {
+      "job_id": 87634233849,
+      "name": "Compile Integration Tests (libs/langchain_v1, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233849\", id=87634233849)>"
+    },
+    {
+      "job_id": 87634233876,
+      "name": "Compile Integration Tests (libs/model-profiles, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233876\", id=87634233876)>"
+    },
+    {
+      "job_id": 87634233909,
+      "name": "test-pydantic (libs/langchain_v1, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233909\", id=87634233909)>"
+    },
+    {
+      "job_id": 87634233937,
+      "name": "Compile Integration Tests (libs/model-profiles, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634233937\", id=87634233937)>"
+    },
+    {
+      "job_id": 87634234012,
+      "name": "test-pydantic (libs/langchain_v1, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234012\", id=87634234012)>"
+    },
+    {
+      "job_id": 87634234025,
+      "name": "test-pydantic (libs/model-profiles, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234025\", id=87634234025)>"
+    },
+    {
+      "job_id": 87634234084,
+      "name": "test-pydantic (libs/langchain_v1, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234084\", id=87634234084)>"
+    },
+    {
+      "job_id": 87634234102,
+      "name": "test-pydantic (libs/model-profiles, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234102\", id=87634234102)>"
+    },
+    {
+      "job_id": 87634234108,
+      "name": "test-pydantic (libs/langchain, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234108\", id=87634234108)>"
+    },
+    {
+      "job_id": 87634234119,
+      "name": "test-pydantic (libs/model-profiles, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234119\", id=87634234119)>"
+    },
+    {
+      "job_id": 87634234130,
+      "name": "test-pydantic (libs/langchain, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234130\", id=87634234130)>"
+    },
+    {
+      "job_id": 87634234147,
+      "name": "test-pydantic (libs/langchain, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234147\", id=87634234147)>"
+    },
+    {
+      "job_id": 87634234149,
+      "name": "test-pydantic (libs/model-profiles, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234149\", id=87634234149)>"
+    },
+    {
+      "job_id": 87634234157,
+      "name": "test-pydantic (libs/model-profiles, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234157\", id=87634234157)>"
+    },
+    {
+      "job_id": 87634234174,
+      "name": "test-pydantic (libs/langchain_v1, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234174\", id=87634234174)>"
+    },
+    {
+      "job_id": 87634234183,
+      "name": "test-pydantic (libs/langchain_v1, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234183\", id=87634234183)>"
+    },
+    {
+      "job_id": 87634234200,
+      "name": "test-pydantic (libs/model-profiles, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234200\", id=87634234200)>"
+    },
+    {
+      "job_id": 87634234206,
+      "name": "test-pydantic (libs/langchain_v1, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234206\", id=87634234206)>"
+    },
+    {
+      "job_id": 87634234213,
+      "name": "test-pydantic (libs/langchain, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234213\", id=87634234213)>"
+    },
+    {
+      "job_id": 87634234247,
+      "name": "test-pydantic (libs/langchain, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234247\", id=87634234247)>"
+    },
+    {
+      "job_id": 87634234257,
+      "name": "test-pydantic (libs/langchain, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634234257\", id=87634234257)>"
+    },
+    {
+      "job_id": 87634488015,
+      "name": "\u2705 CI Success",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634488015\", id=87634488015)>"
+    }
+  ]
+}

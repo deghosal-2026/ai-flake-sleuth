@@ -1,0 +1,112 @@
+{
+  "run_id": 29506528805,
+  "workflow_name": "\ud83d\udd27 CI",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T14:25:34+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29506528805",
+  "jobs": [
+    {
+      "job_id": 87648602003,
+      "name": "Detect Changes & Set Matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648602003\", id=87648602003)>"
+    },
+    {
+      "job_id": 87648602037,
+      "name": "Validate Release Options",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648602037\", id=87648602037)>"
+    },
+    {
+      "job_id": 87648667407,
+      "name": "lint (libs/partners/openrouter, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667407\", id=87648667407)>"
+    },
+    {
+      "job_id": 87648667434,
+      "name": "lint (libs/partners/openrouter, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667434\", id=87648667434)>"
+    },
+    {
+      "job_id": 87648667451,
+      "name": "Compile Integration Tests (libs/partners/openrouter, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667451\", id=87648667451)>"
+    },
+    {
+      "job_id": 87648667468,
+      "name": "Compile Integration Tests (libs/partners/openrouter, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667468\", id=87648667468)>"
+    },
+    {
+      "job_id": 87648667481,
+      "name": "test-pydantic (libs/partners/openrouter, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667481\", id=87648667481)>"
+    },
+    {
+      "job_id": 87648667485,
+      "name": "test-pydantic (libs/partners/openrouter, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667485\", id=87648667485)>"
+    },
+    {
+      "job_id": 87648667531,
+      "name": "test (libs/partners/openrouter, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667531\", id=87648667531)>"
+    },
+    {
+      "job_id": 87648667540,
+      "name": "test (libs/partners/openrouter, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667540\", id=87648667540)>"
+    },
+    {
+      "job_id": 87648667581,
+      "name": "test-pydantic (libs/partners/openrouter, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667581\", id=87648667581)>"
+    },
+    {
+      "job_id": 87648667585,
+      "name": "test-pydantic (libs/partners/openrouter, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667585\", id=87648667585)>"
+    },
+    {
+      "job_id": 87648667588,
+      "name": "test-pydantic (libs/partners/openrouter, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667588\", id=87648667588)>"
+    },
+    {
+      "job_id": 87648667710,
+      "name": "test-pydantic (libs/partners/openrouter, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667710\", id=87648667710)>"
+    },
+    {
+      "job_id": 87648667858,
+      "name": "Extended Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648667858\", id=87648667858)>"
+    },
+    {
+      "job_id": 87648668083,
+      "name": "VCR Cassette Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648668083\", id=87648668083)>"
+    },
+    {
+      "job_id": 87648810663,
+      "name": "\u2705 CI Success",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87648810663\", id=87648810663)>"
+    }
+  ]
+}

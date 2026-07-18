@@ -1,0 +1,16 @@
+{
+  "run_id": 29565679149,
+  "workflow_name": "Benchmark",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-17T08:13:21+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29565679149",
+  "jobs": [
+    {
+      "job_id": 87837644665,
+      "name": "Run_benchmarks",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87837644665\", id=87837644665)>"
+    }
+  ]
+}

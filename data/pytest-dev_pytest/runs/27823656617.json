@@ -1,0 +1,202 @@
+{
+  "run_id": 27823656617,
+  "workflow_name": "test",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-06-19T11:42:58+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27823656617",
+  "jobs": [
+    {
+      "job_id": 82342554009,
+      "name": "package",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342554009\", id=82342554009)>"
+    },
+    {
+      "job_id": 82342611185,
+      "name": "build (windows-py310-pluggy)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611185\", id=82342611185)>"
+    },
+    {
+      "job_id": 82342611208,
+      "name": "build (windows-py311)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611208\", id=82342611208)>"
+    },
+    {
+      "job_id": 82342611210,
+      "name": "build (windows-py310-unittest-twisted24)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611210\", id=82342611210)>"
+    },
+    {
+      "job_id": 82342611212,
+      "name": "build (windows-py314)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611212\", id=82342611212)>"
+    },
+    {
+      "job_id": 82342611216,
+      "name": "build (ubuntu-py310-unittest-asynctest)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611216\", id=82342611216)>"
+    },
+    {
+      "job_id": 82342611222,
+      "name": "build (windows-py312)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611222\", id=82342611222)>"
+    },
+    {
+      "job_id": 82342611227,
+      "name": "build (windows-py310-unittest-twisted25)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611227\", id=82342611227)>"
+    },
+    {
+      "job_id": 82342611231,
+      "name": "build (ubuntu-py314)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611231\", id=82342611231)>"
+    },
+    {
+      "job_id": 82342611235,
+      "name": "build (windows-py315)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611235\", id=82342611235)>"
+    },
+    {
+      "job_id": 82342611237,
+      "name": "build (windows-py310-unittest-asynctest)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611237\", id=82342611237)>"
+    },
+    {
+      "job_id": 82342611238,
+      "name": "build (ubuntu-py310-unittest-twisted25)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611238\", id=82342611238)>"
+    },
+    {
+      "job_id": 82342611241,
+      "name": "build (ubuntu-py310-pluggy)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611241\", id=82342611241)>"
+    },
+    {
+      "job_id": 82342611242,
+      "name": "build (windows-py310-xdist)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611242\", id=82342611242)>"
+    },
+    {
+      "job_id": 82342611244,
+      "name": "build (windows-py313)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611244\", id=82342611244)>"
+    },
+    {
+      "job_id": 82342611249,
+      "name": "build (ubuntu-py310-xdist)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611249\", id=82342611249)>"
+    },
+    {
+      "job_id": 82342611250,
+      "name": "build (ubuntu-py312)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611250\", id=82342611250)>"
+    },
+    {
+      "job_id": 82342611251,
+      "name": "build (ubuntu-py311)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611251\", id=82342611251)>"
+    },
+    {
+      "job_id": 82342611256,
+      "name": "build (ubuntu-pypy3-xdist)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611256\", id=82342611256)>"
+    },
+    {
+      "job_id": 82342611264,
+      "name": "build (ubuntu-py313-pexpect)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611264\", id=82342611264)>"
+    },
+    {
+      "job_id": 82342611266,
+      "name": "build (ubuntu-py310-unittest-twisted24)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611266\", id=82342611266)>"
+    },
+    {
+      "job_id": 82342611273,
+      "name": "build (ubuntu-py310-lsof-numpy-pexpect)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611273\", id=82342611273)>"
+    },
+    {
+      "job_id": 82342611274,
+      "name": "build (ubuntu-py315)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611274\", id=82342611274)>"
+    },
+    {
+      "job_id": 82342611276,
+      "name": "build (macos-py313)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611276\", id=82342611276)>"
+    },
+    {
+      "job_id": 82342611277,
+      "name": "build (macos-py314)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611277\", id=82342611277)>"
+    },
+    {
+      "job_id": 82342611279,
+      "name": "build (macos-py312)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611279\", id=82342611279)>"
+    },
+    {
+      "job_id": 82342611290,
+      "name": "build (plugins)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611290\", id=82342611290)>"
+    },
+    {
+      "job_id": 82342611292,
+      "name": "build (ubuntu-py310-freeze)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611292\", id=82342611292)>"
+    },
+    {
+      "job_id": 82342611294,
+      "name": "build (macos-py310)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611294\", id=82342611294)>"
+    },
+    {
+      "job_id": 82342611314,
+      "name": "build (doctesting)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611314\", id=82342611314)>"
+    },
+    {
+      "job_id": 82342611322,
+      "name": "build (macos-py315)",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82342611322\", id=82342611322)>"
+    },
+    {
+      "job_id": 82343052517,
+      "name": "check",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82343052517\", id=82343052517)>"
+    }
+  ]
+}

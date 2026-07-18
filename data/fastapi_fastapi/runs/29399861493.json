@@ -1,0 +1,124 @@
+{
+  "run_id": 29399861493,
+  "workflow_name": "Test",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T08:10:39+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29399861493",
+  "jobs": [
+    {
+      "job_id": 87301699133,
+      "name": "changes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301699133\", id=87301699133)>"
+    },
+    {
+      "job_id": 87301851388,
+      "name": "benchmark",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851388\", id=87301851388)>"
+    },
+    {
+      "job_id": 87301851683,
+      "name": "test (windows-latest, 3.14t, no-deprecation, highest, starlette-git)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851683\", id=87301851683)>"
+    },
+    {
+      "job_id": 87301851690,
+      "name": "test (macos-latest, 3.14, no-deprecation, highest, starlette-pypi)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851690\", id=87301851690)>"
+    },
+    {
+      "job_id": 87301851700,
+      "name": "test (windows-latest, 3.14, no-deprecation, highest, starlette-pypi)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851700\", id=87301851700)>"
+    },
+    {
+      "job_id": 87301851715,
+      "name": "test (macos-latest, 3.10, lowest-direct, no-deprecation, coverage)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851715\", id=87301851715)>"
+    },
+    {
+      "job_id": 87301851716,
+      "name": "test (macos-latest, 3.14, no-deprecation, highest, starlette-git)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851716\", id=87301851716)>"
+    },
+    {
+      "job_id": 87301851723,
+      "name": "test (ubuntu-latest, 3.13, highest, no-deprecation, coverage)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851723\", id=87301851723)>"
+    },
+    {
+      "job_id": 87301851724,
+      "name": "test (ubuntu-latest, 3.13, highest, no-deprecation, codspeed)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851724\", id=87301851724)>"
+    },
+    {
+      "job_id": 87301851733,
+      "name": "test (windows-latest, 3.14t, no-deprecation, highest, starlette-pypi)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851733\", id=87301851733)>"
+    },
+    {
+      "job_id": 87301851741,
+      "name": "test (macos-latest, 3.14t, no-deprecation, highest, starlette-pypi)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851741\", id=87301851741)>"
+    },
+    {
+      "job_id": 87301851743,
+      "name": "test (ubuntu-latest, 3.14, highest, starlette-git, test-deprecation, coverage)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851743\", id=87301851743)>"
+    },
+    {
+      "job_id": 87301851747,
+      "name": "test (windows-latest, 3.12, lowest-direct, no-deprecation, coverage)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851747\", id=87301851747)>"
+    },
+    {
+      "job_id": 87301851756,
+      "name": "test (ubuntu-latest, 3.13, highest, no-deprecation, true)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851756\", id=87301851756)>"
+    },
+    {
+      "job_id": 87301851765,
+      "name": "test (macos-latest, 3.14t, no-deprecation, highest, starlette-git)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851765\", id=87301851765)>"
+    },
+    {
+      "job_id": 87301851791,
+      "name": "test (ubuntu-latest, 3.14t, highest, no-deprecation, coverage)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851791\", id=87301851791)>"
+    },
+    {
+      "job_id": 87301851796,
+      "name": "test (windows-latest, 3.14, no-deprecation, highest, starlette-git)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301851796\", id=87301851796)>"
+    },
+    {
+      "job_id": 87303296241,
+      "name": "coverage-combine",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87303296241\", id=87303296241)>"
+    },
+    {
+      "job_id": 87305310994,
+      "name": "test-alls-green",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87305310994\", id=87305310994)>"
+    }
+  ]
+}

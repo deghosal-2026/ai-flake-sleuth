@@ -1,0 +1,16 @@
+{
+  "run_id": 29557370940,
+  "workflow_name": "Block fork main PRs",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-17T05:27:41+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29557370940",
+  "jobs": [
+    {
+      "job_id": 87812359572,
+      "name": "guard",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87812359572\", id=87812359572)>"
+    }
+  ]
+}

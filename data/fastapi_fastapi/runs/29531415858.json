@@ -1,0 +1,16 @@
+{
+  "run_id": 29531415858,
+  "workflow_name": "Latest Changes",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-16T20:17:05+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29531415858",
+  "jobs": [
+    {
+      "job_id": 87732343430,
+      "name": "latest-changes",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87732343430\", id=87732343430)>"
+    }
+  ]
+}

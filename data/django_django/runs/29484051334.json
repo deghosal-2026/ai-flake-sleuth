@@ -1,0 +1,16 @@
+{
+  "run_id": 29484051334,
+  "workflow_name": "Coverage Tests",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-16T08:36:24+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29484051334",
+  "jobs": [
+    {
+      "job_id": 87574204847,
+      "name": "Coverage Tests (PostgreSQL)",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87574204847\", id=87574204847)>"
+    }
+  ]
+}

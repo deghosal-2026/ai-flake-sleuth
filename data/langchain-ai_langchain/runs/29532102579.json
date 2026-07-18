@@ -1,0 +1,16 @@
+{
+  "run_id": 29532102579,
+  "workflow_name": "Auto Label Issues by Package",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-16T20:26:55+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29532102579",
+  "jobs": [
+    {
+      "job_id": 87734595093,
+      "name": "label-by-package",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87734595093\", id=87734595093)>"
+    }
+  ]
+}

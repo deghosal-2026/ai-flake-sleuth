@@ -1,0 +1,9 @@
+{
+  "run_id": 29488843225,
+  "workflow_name": "PR Quality Checks",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-07-16T09:53:52+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29488843225",
+  "jobs": []
+}

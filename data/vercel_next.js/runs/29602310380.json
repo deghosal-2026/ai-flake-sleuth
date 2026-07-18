@@ -1,0 +1,9 @@
+{
+  "run_id": 29602310380,
+  "workflow_name": "build-and-deploy",
+  "status": "completed",
+  "conclusion": "action_required",
+  "timestamp": "2026-07-17T18:02:09+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29602310380",
+  "jobs": []
+}

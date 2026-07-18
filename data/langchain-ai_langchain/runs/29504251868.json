@@ -1,0 +1,16 @@
+{
+  "run_id": 29504251868,
+  "workflow_name": "Configured Graph Update: uv in /libs/model-profiles, /libs/standard-tests, /libs/text-splitters #1463520640",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:55:02+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29504251868",
+  "jobs": [
+    {
+      "job_id": 87640793001,
+      "name": "update-uv-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87640793001\", id=87640793001)>"
+    }
+  ]
+}

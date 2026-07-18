@@ -1,0 +1,70 @@
+{
+  "run_id": 29502132912,
+  "workflow_name": "Release langchain 1.3.14",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:25:35+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29502132912",
+  "jobs": [
+    {
+      "job_id": 87633477444,
+      "name": "\ud83d\udce6 Build distribution",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633477444\", id=87633477444)>"
+    },
+    {
+      "job_id": 87633538135,
+      "name": "\ud83d\udcdd Generate release notes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633538135\", id=87633538135)>"
+    },
+    {
+      "job_id": 87633576404,
+      "name": "\u2705 Pre-release checks",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633576404\", id=87633576404)>"
+    },
+    {
+      "job_id": 87633634971,
+      "name": "\ud83e\uddea Publish to TestPyPI",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633634971\", id=87633634971)>"
+    },
+    {
+      "job_id": 87633738061,
+      "name": "\ud83d\udd04 Test prior partners against new core (anthropic)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633738061\", id=87633738061)>"
+    },
+    {
+      "job_id": 87633738127,
+      "name": "\ud83d\udd04 Test prior partners against new core (openai)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633738127\", id=87633738127)>"
+    },
+    {
+      "job_id": 87633738137,
+      "name": "\ud83d\udc0d Test dependent: libs/deepagents (Python 3.13)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633738137\", id=87633738137)>"
+    },
+    {
+      "job_id": 87633738140,
+      "name": "\ud83d\udc0d Test dependent: libs/deepagents (Python 3.11)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633738140\", id=87633738140)>"
+    },
+    {
+      "job_id": 87634015357,
+      "name": "\ud83d\ude80 Publish to PyPI",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634015357\", id=87634015357)>"
+    },
+    {
+      "job_id": 87634129964,
+      "name": "\ud83c\udff7\ufe0f Tag GitHub release",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634129964\", id=87634129964)>"
+    }
+  ]
+}

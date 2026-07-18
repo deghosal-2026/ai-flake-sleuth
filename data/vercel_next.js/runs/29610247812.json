@@ -1,0 +1,16 @@
+{
+  "run_id": 29610247812,
+  "workflow_name": "upload-preview-tarballs",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:10:42+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29610247812",
+  "jobs": [
+    {
+      "job_id": 87982974216,
+      "name": "Upload preview tarballs to Blob",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87982974216\", id=87982974216)>"
+    }
+  ]
+}

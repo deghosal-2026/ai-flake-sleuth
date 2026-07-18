@@ -1,0 +1,28 @@
+{
+  "run_id": 27877492425,
+  "workflow_name": "test",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-06-20T16:43:54+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27877492425",
+  "jobs": [
+    {
+      "job_id": 82499354164,
+      "name": "package",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82499354164\", id=82499354164)>"
+    },
+    {
+      "job_id": 82499355820,
+      "name": "check",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82499355820\", id=82499355820)>"
+    },
+    {
+      "job_id": 82499355930,
+      "name": "build",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82499355930\", id=82499355930)>"
+    }
+  ]
+}

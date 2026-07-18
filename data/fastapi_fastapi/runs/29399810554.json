@@ -1,0 +1,16 @@
+{
+  "run_id": 29399810554,
+  "workflow_name": "Create Draft Release",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-15T08:09:47+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29399810554",
+  "jobs": [
+    {
+      "job_id": 87301558711,
+      "name": "create-draft-release",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87301558711\", id=87301558711)>"
+    }
+  ]
+}

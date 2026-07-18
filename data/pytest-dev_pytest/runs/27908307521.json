@@ -1,0 +1,16 @@
+{
+  "run_id": 27908307521,
+  "workflow_name": "Running Copilot cloud agent",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-06-21T15:03:25+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27908307521",
+  "jobs": [
+    {
+      "job_id": 82580858868,
+      "name": "copilot",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82580858868\", id=82580858868)>"
+    }
+  ]
+}

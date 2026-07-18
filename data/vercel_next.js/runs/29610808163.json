@@ -1,0 +1,22 @@
+{
+  "run_id": 29610808163,
+  "workflow_name": "Test examples",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-17T20:20:02+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29610808163",
+  "jobs": [
+    {
+      "job_id": 87984772185,
+      "name": "Test Examples (22)",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87984772185\", id=87984772185)>"
+    },
+    {
+      "job_id": 87984772187,
+      "name": "Test Examples (20)",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87984772187\", id=87984772187)>"
+    }
+  ]
+}

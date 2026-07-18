@@ -1,0 +1,34 @@
+{
+  "run_id": 29594903656,
+  "workflow_name": "Python Matrix from config file",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T16:07:15+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29594903656",
+  "jobs": [
+    {
+      "job_id": 87932811010,
+      "name": "define-matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87932811010\", id=87932811010)>"
+    },
+    {
+      "job_id": 87932838674,
+      "name": "python (3.13)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87932838674\", id=87932838674)>"
+    },
+    {
+      "job_id": 87932838681,
+      "name": "python (3.14)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87932838681\", id=87932838681)>"
+    },
+    {
+      "job_id": 87932838688,
+      "name": "python (3.12)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87932838688\", id=87932838688)>"
+    }
+  ]
+}

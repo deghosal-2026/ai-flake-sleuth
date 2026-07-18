@@ -1,0 +1,29 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.0, pytest-8.0.0, pluggy-1.4.0
+rootdir: /home/runner/work/pytest/pytest
+collected 3 items
+
+tests/test_auth.py::test_login_redirect FAILED
+tests/test_auth.py::test_logout PASSED
+tests/test_parser.py::test_edge_case FAILED
+
+=================================== FAILURES ===================================
+______________________________ test_login_redirect _____________________________
+
+    def test_login_redirect():
+        response = client.get("/login")
+>       assert response.status_code == 302
+E       AssertionError: assert 200 == 302
+E        +  where 200 = <Response [200]>.status_code
+
+tests/test_auth.py:42: AssertionError
+_______________________________ test_edge_case ________________________________
+
+    def test_edge_case():
+        data = {"key": "value"}
+        result = process_data(data)
+>       assert result["status"] == "ok"
+E       KeyError: 'status'
+
+tests/test_parser.py:87: KeyError
+=========================== 2 failed, 1 passed in 0.32s =======================

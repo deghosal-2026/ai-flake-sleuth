@@ -1,0 +1,16 @@
+{
+  "run_id": 29502264800,
+  "workflow_name": "Configured Graph Update: uv in /libs/langchain_v1 #1463487283",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:27:32+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29502264800",
+  "jobs": [
+    {
+      "job_id": 87633933932,
+      "name": "update-uv-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633933932\", id=87633933932)>"
+    }
+  ]
+}

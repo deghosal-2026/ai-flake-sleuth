@@ -1,0 +1,16 @@
+{
+  "run_id": 29611032271,
+  "workflow_name": "Configured Graph Update: uv in /libs/partners/fireworks #1465570366",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:23:45+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29611032271",
+  "jobs": [
+    {
+      "job_id": 87985504907,
+      "name": "update-uv-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87985504907\", id=87985504907)>"
+    }
+  ]
+}

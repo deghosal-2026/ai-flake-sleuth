@@ -1,0 +1,16 @@
+{
+  "run_id": 29565676931,
+  "workflow_name": "PR Quality Checks",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T08:13:18+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29565676931",
+  "jobs": [
+    {
+      "job_id": 87837637607,
+      "name": "Run Quality Checks on a PR",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87837637607\", id=87837637607)>"
+    }
+  ]
+}

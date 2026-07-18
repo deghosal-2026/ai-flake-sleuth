@@ -1,0 +1,16 @@
+{
+  "run_id": 29424769473,
+  "workflow_name": "Smokeshow",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T14:42:36+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29424769473",
+  "jobs": [
+    {
+      "job_id": 87384216095,
+      "name": "smokeshow",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87384216095\", id=87384216095)>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "run_id": 29610848384,
+  "workflow_name": "uv in /libs/partners/huggingface for setuptools - Update #1465563856",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:20:40+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610848384",
+  "jobs": [
+    {
+      "job_id": 87984902820,
+      "name": "Dependabot",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984902820\", id=87984902820)>"
+    }
+  ]
+}

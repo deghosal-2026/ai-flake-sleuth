@@ -1,0 +1,28 @@
+{
+  "run_id": 29387396744,
+  "workflow_name": "Tests",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T03:47:47+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29387396744",
+  "jobs": [
+    {
+      "job_id": 87263403994,
+      "name": "JavaScript tests",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87263403994\", id=87263403994)>"
+    },
+    {
+      "job_id": 87263404012,
+      "name": "Scripts tests",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87263404012\", id=87263404012)>"
+    },
+    {
+      "job_id": 87263404014,
+      "name": "Windows, SQLite, Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87263404014\", id=87263404014)>"
+    }
+  ]
+}

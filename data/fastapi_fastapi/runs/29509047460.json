@@ -1,0 +1,16 @@
+{
+  "run_id": 29509047460,
+  "workflow_name": "Prepare Release",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T14:58:50+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29509047460",
+  "jobs": [
+    {
+      "job_id": 87657396157,
+      "name": "prepare-release",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87657396157\", id=87657396157)>"
+    }
+  ]
+}

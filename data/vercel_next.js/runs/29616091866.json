@@ -1,0 +1,34 @@
+{
+  "run_id": 29616091866,
+  "workflow_name": "Generate Stats",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-07-17T21:52:03+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29616091866",
+  "jobs": [
+    {
+      "job_id": 88001426547,
+      "name": "build / build",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001426547\", id=88001426547)>"
+    },
+    {
+      "job_id": 88001426556,
+      "name": "Upload PR CI metadata",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001426556\", id=88001426556)>"
+    },
+    {
+      "job_id": 88001854962,
+      "name": "Aggregate Stats",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001854962\", id=88001854962)>"
+    },
+    {
+      "job_id": 88001855401,
+      "name": "Stats (${{ matrix.bundler }})",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001855401\", id=88001855401)>"
+    }
+  ]
+}

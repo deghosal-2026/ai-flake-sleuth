@@ -1,0 +1,16 @@
+{
+  "run_id": 29610479035,
+  "workflow_name": "uv in /libs/partners/huggingface, /libs/partners/fireworks, /libs/partners/chroma for Pygments, Starlette, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, aiohttp, filelock, filelock, h11, h11, idna, idna, langsmith, langsmith, langsmith, langsmith, langsmith, langsmith, orjson, orjson, pillow, ...",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:14:30+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610479035",
+  "jobs": [
+    {
+      "job_id": 87983707456,
+      "name": "Dependabot",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87983707456\", id=87983707456)>"
+    }
+  ]
+}

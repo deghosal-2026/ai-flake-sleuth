@@ -1,0 +1,22 @@
+{
+  "run_id": 29616535482,
+  "workflow_name": "Sync Canary After Backport Release",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T22:00:33+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29616535482",
+  "jobs": [
+    {
+      "job_id": 88002752979,
+      "name": "evaluate",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88002752979\", id=88002752979)>"
+    },
+    {
+      "job_id": 88002777442,
+      "name": "dispatch",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88002777442\", id=88002777442)>"
+    }
+  ]
+}

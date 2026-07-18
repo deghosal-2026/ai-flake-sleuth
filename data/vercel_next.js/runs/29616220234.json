@@ -1,0 +1,64 @@
+{
+  "run_id": 29616220234,
+  "workflow_name": "build-and-deploy",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-17T21:54:31+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29616220234",
+  "jobs": [
+    {
+      "job_id": 88001810039,
+      "name": "deploy-target",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001810039\", id=88001810039)>"
+    },
+    {
+      "job_id": 88001810382,
+      "name": "build-wasm",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001810382\", id=88001810382)>"
+    },
+    {
+      "job_id": 88001810543,
+      "name": "build",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001810543\", id=88001810543)>"
+    },
+    {
+      "job_id": 88001810567,
+      "name": "stable - ${{ matrix.target }} - node@20",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001810567\", id=88001810567)>"
+    },
+    {
+      "job_id": 88001810624,
+      "name": "generate-native-matrix",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001810624\", id=88001810624)>"
+    },
+    {
+      "job_id": 88001810755,
+      "name": "thank you, build",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001810755\", id=88001810755)>"
+    },
+    {
+      "job_id": 88001810799,
+      "name": "Prepare preview tarball",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001810799\", id=88001810799)>"
+    },
+    {
+      "job_id": 88001811194,
+      "name": "Potentially publish release",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001811194\", id=88001811194)>"
+    },
+    {
+      "job_id": 88001811259,
+      "name": "Upload Turbopack Bytesize metrics to Datadog",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88001811259\", id=88001811259)>"
+    }
+  ]
+}

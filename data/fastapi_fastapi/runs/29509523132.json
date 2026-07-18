@@ -1,0 +1,106 @@
+{
+  "run_id": 29509523132,
+  "workflow_name": "Build Docs",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T15:04:58+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29509523132",
+  "jobs": [
+    {
+      "job_id": 87659014638,
+      "name": "changes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659014638\", id=87659014638)>"
+    },
+    {
+      "job_id": 87659073309,
+      "name": "langs",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659073309\", id=87659073309)>"
+    },
+    {
+      "job_id": 87659231151,
+      "name": "build-docs (de)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231151\", id=87659231151)>"
+    },
+    {
+      "job_id": 87659231173,
+      "name": "build-docs (fr)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231173\", id=87659231173)>"
+    },
+    {
+      "job_id": 87659231177,
+      "name": "build-docs (en)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231177\", id=87659231177)>"
+    },
+    {
+      "job_id": 87659231202,
+      "name": "build-docs (uk)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231202\", id=87659231202)>"
+    },
+    {
+      "job_id": 87659231210,
+      "name": "build-docs (pt)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231210\", id=87659231210)>"
+    },
+    {
+      "job_id": 87659231212,
+      "name": "build-docs (hi)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231212\", id=87659231212)>"
+    },
+    {
+      "job_id": 87659231229,
+      "name": "build-docs (ko)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231229\", id=87659231229)>"
+    },
+    {
+      "job_id": 87659231246,
+      "name": "build-docs (ru)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231246\", id=87659231246)>"
+    },
+    {
+      "job_id": 87659231277,
+      "name": "build-docs (zh)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231277\", id=87659231277)>"
+    },
+    {
+      "job_id": 87659231278,
+      "name": "build-docs (zh-hant)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231278\", id=87659231278)>"
+    },
+    {
+      "job_id": 87659231300,
+      "name": "build-docs (tr)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231300\", id=87659231300)>"
+    },
+    {
+      "job_id": 87659231364,
+      "name": "build-docs (es)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231364\", id=87659231364)>"
+    },
+    {
+      "job_id": 87659231395,
+      "name": "build-docs (ja)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659231395\", id=87659231395)>"
+    },
+    {
+      "job_id": 87659769236,
+      "name": "docs-all-green",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87659769236\", id=87659769236)>"
+    }
+  ]
+}

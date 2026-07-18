@@ -1,0 +1,16 @@
+{
+  "run_id": 29580537365,
+  "workflow_name": "Label Approved",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T12:31:34+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29580537365",
+  "jobs": [
+    {
+      "job_id": 87884906173,
+      "name": "label-approved",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87884906173\", id=87884906173)>"
+    }
+  ]
+}

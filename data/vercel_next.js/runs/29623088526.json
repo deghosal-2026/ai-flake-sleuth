@@ -1,0 +1,16 @@
+{
+  "run_id": 29623088526,
+  "workflow_name": "Update Font Data",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-18T00:26:23+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29623088526",
+  "jobs": [
+    {
+      "job_id": 88021900367,
+      "name": "create-pull-request",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88021900367\", id=88021900367)>"
+    }
+  ]
+}

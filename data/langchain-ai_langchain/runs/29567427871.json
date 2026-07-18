@@ -1,0 +1,16 @@
+{
+  "run_id": 29567427871,
+  "workflow_name": "\ud83d\udd04 Refresh Model Profiles",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T08:43:50+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29567427871",
+  "jobs": [
+    {
+      "job_id": 87843103820,
+      "name": "refresh-profiles / refresh model profiles",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87843103820\", id=87843103820)>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "run_id": 29531324318,
+  "workflow_name": "uv in /. for mcp - Update #1463971667",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T20:15:43+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29531324318",
+  "jobs": [
+    {
+      "job_id": 87732045854,
+      "name": "Dependabot",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87732045854\", id=87732045854)>"
+    }
+  ]
+}

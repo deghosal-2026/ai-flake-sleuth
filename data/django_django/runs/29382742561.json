@@ -1,0 +1,16 @@
+{
+  "run_id": 29382742561,
+  "workflow_name": "Docs",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-15T01:53:30+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29382742561",
+  "jobs": [
+    {
+      "job_id": 87249674070,
+      "name": "docs",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87249674070\", id=87249674070)>"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "run_id": 29501591632,
+  "workflow_name": "Push on master",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:17:42+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29501591632",
+  "jobs": [
+    {
+      "job_id": 87631611515,
+      "name": "Analyze (actions)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87631611515\", id=87631611515)>"
+    },
+    {
+      "job_id": 87631611623,
+      "name": "Analyze (python)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87631611623\", id=87631611623)>"
+    }
+  ]
+}

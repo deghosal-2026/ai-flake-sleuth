@@ -1,0 +1,112 @@
+{
+  "run_id": 29610590875,
+  "workflow_name": "\ud83d\udd27 CI",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:16:19+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610590875",
+  "jobs": [
+    {
+      "job_id": 87984052849,
+      "name": "Validate Release Options",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984052849\", id=87984052849)>"
+    },
+    {
+      "job_id": 87984052866,
+      "name": "Detect Changes & Set Matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984052866\", id=87984052866)>"
+    },
+    {
+      "job_id": 87984089189,
+      "name": "lint (libs/partners/huggingface, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089189\", id=87984089189)>"
+    },
+    {
+      "job_id": 87984089201,
+      "name": "Compile Integration Tests (libs/partners/huggingface, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089201\", id=87984089201)>"
+    },
+    {
+      "job_id": 87984089204,
+      "name": "lint (libs/partners/huggingface, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089204\", id=87984089204)>"
+    },
+    {
+      "job_id": 87984089218,
+      "name": "Compile Integration Tests (libs/partners/huggingface, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089218\", id=87984089218)>"
+    },
+    {
+      "job_id": 87984089221,
+      "name": "test (libs/partners/huggingface, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089221\", id=87984089221)>"
+    },
+    {
+      "job_id": 87984089236,
+      "name": "test (libs/partners/huggingface, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089236\", id=87984089236)>"
+    },
+    {
+      "job_id": 87984089240,
+      "name": "test-pydantic (libs/partners/huggingface, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089240\", id=87984089240)>"
+    },
+    {
+      "job_id": 87984089266,
+      "name": "test-pydantic (libs/partners/huggingface, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089266\", id=87984089266)>"
+    },
+    {
+      "job_id": 87984089278,
+      "name": "test-pydantic (libs/partners/huggingface, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089278\", id=87984089278)>"
+    },
+    {
+      "job_id": 87984089281,
+      "name": "test-pydantic (libs/partners/huggingface, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089281\", id=87984089281)>"
+    },
+    {
+      "job_id": 87984089284,
+      "name": "test-pydantic (libs/partners/huggingface, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089284\", id=87984089284)>"
+    },
+    {
+      "job_id": 87984089285,
+      "name": "test-pydantic (libs/partners/huggingface, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089285\", id=87984089285)>"
+    },
+    {
+      "job_id": 87984089400,
+      "name": "VCR Cassette Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089400\", id=87984089400)>"
+    },
+    {
+      "job_id": 87984089801,
+      "name": "Extended Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984089801\", id=87984089801)>"
+    },
+    {
+      "job_id": 87984360127,
+      "name": "\u2705 CI Success",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984360127\", id=87984360127)>"
+    }
+  ]
+}

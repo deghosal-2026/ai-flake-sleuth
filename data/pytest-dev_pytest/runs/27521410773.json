@@ -1,0 +1,16 @@
+{
+  "run_id": 27521410773,
+  "workflow_name": "github_actions in /. - Update #1412484787",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-06-15T03:02:21+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27521410773",
+  "jobs": [
+    {
+      "job_id": 81339934673,
+      "name": "Dependabot",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/81339934673\", id=81339934673)>"
+    }
+  ]
+}

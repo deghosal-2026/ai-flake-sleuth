@@ -1,0 +1,16 @@
+{
+  "run_id": 29521255333,
+  "workflow_name": "Zizmor",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T17:47:52+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29521255333",
+  "jobs": [
+    {
+      "job_id": 87698610316,
+      "name": "Run zizmor",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87698610316\", id=87698610316)>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "run_id": 29531410984,
+  "workflow_name": "Notify Translations",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T20:17:00+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29531410984",
+  "jobs": [
+    {
+      "job_id": 87732325756,
+      "name": "job",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87732325756\", id=87732325756)>"
+    }
+  ]
+}

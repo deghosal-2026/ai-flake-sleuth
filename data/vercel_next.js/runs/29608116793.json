@@ -1,0 +1,40 @@
+{
+  "run_id": 29608116793,
+  "workflow_name": "Generate Stats",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T19:35:50+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29608116793",
+  "jobs": [
+    {
+      "job_id": 87976179512,
+      "name": "Upload PR CI metadata",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87976179512\", id=87976179512)>"
+    },
+    {
+      "job_id": 87976179560,
+      "name": "build / build",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87976179560\", id=87976179560)>"
+    },
+    {
+      "job_id": 87977619240,
+      "name": "Stats (turbopack)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87977619240\", id=87977619240)>"
+    },
+    {
+      "job_id": 87977619306,
+      "name": "Stats (webpack)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87977619306\", id=87977619306)>"
+    },
+    {
+      "job_id": 87983182643,
+      "name": "Aggregate Stats",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87983182643\", id=87983182643)>"
+    }
+  ]
+}

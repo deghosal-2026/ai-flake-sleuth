@@ -1,0 +1,16 @@
+{
+  "run_id": 29504251946,
+  "workflow_name": "Configured Graph Update: uv in /libs/partners/anthropic, /libs/partners/chroma, /libs/partners/deepseek, /libs/partners/exa, /libs/partners/fireworks, /libs/partners/groq, /libs/partners/huggingface, /libs/partners/mistralai, /libs/partners/nomic, /libs/partners/ollama, /libs/partners/openai, /libs/partners/openrouter, /libs/partners/perplexity, /libs/partners/qdrant, /libs/partners/xai #1463520641",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:55:02+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29504251946",
+  "jobs": [
+    {
+      "job_id": 87640780229,
+      "name": "update-uv-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87640780229\", id=87640780229)>"
+    }
+  ]
+}

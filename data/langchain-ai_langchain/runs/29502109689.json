@@ -1,0 +1,16 @@
+{
+  "run_id": 29502109689,
+  "workflow_name": "\ud83d\udd0d Check Extras Sync",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:25:15+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29502109689",
+  "jobs": [
+    {
+      "job_id": 87633390289,
+      "name": "Verify extras match required deps",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87633390289\", id=87633390289)>"
+    }
+  ]
+}

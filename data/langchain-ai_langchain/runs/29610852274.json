@@ -1,0 +1,16 @@
+{
+  "run_id": 29610852274,
+  "workflow_name": "Require Issue Link",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-17T20:20:44+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610852274",
+  "jobs": [
+    {
+      "job_id": 87984912536,
+      "name": "check-issue-link",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984912536\", id=87984912536)>"
+    }
+  ]
+}

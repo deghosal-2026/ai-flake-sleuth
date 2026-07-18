@@ -1,0 +1,22 @@
+{
+  "run_id": 29502335498,
+  "workflow_name": "PR #38884",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T13:28:33+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29502335498",
+  "jobs": [
+    {
+      "job_id": 87634176654,
+      "name": "Analyze (python)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634176654\", id=87634176654)>"
+    },
+    {
+      "job_id": 87634176685,
+      "name": "Analyze (actions)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87634176685\", id=87634176685)>"
+    }
+  ]
+}

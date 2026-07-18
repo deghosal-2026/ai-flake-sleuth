@@ -1,0 +1,16 @@
+{
+  "run_id": 27889257328,
+  "workflow_name": "Doc Check Links",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-06-21T01:07:30+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27889257328",
+  "jobs": [
+    {
+      "job_id": 82529776333,
+      "name": "doc-check-links",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82529776333\", id=82529776333)>"
+    }
+  ]
+}

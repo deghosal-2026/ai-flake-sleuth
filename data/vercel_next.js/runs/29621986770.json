@@ -1,0 +1,16 @@
+{
+  "run_id": 29621986770,
+  "workflow_name": "Stale issue handler",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-17T23:57:31+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29621986770",
+  "jobs": [
+    {
+      "job_id": 88018696923,
+      "name": "stale",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88018696923\", id=88018696923)>"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.0, pytest-8.0.0, pluggy-1.4.0
+rootdir: /home/runner/work/app
+collected 2 items
+
+tests/test_integration.py::test_external_api FAILED
+tests/test_integration.py::test_database FAILED
+
+=================================== FAILURES ===================================
+___________________________ test_external_api _________________________________
+
+    def test_external_api():
+        response = requests.get("https://api.example.com/data", timeout=5)
+>       response.raise_for_status()
+E       requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.example.com', port=443): Max retries exceeded with url: /data (Caused by ConnectTimeoutError(..., 'Connection to api.example.com timed out. (connect timeout=5)'))
+
+tests/test_integration.py:23: ConnectionError
+_____________________________ test_database ___________________________________
+
+    def test_database():
+        conn = psycopg2.connect("dbname=test user=test")
+>       conn.cursor().execute("SELECT 1")
+E       OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: timeout expired
+E       connection to server at "/var/run/postgresql" failed: timeout expired
+
+tests/test_integration.py:45: OperationalError
+=========================== 2 failed in 30.5s ================================

@@ -1,0 +1,16 @@
+{
+  "run_id": 29530863987,
+  "workflow_name": "Visual Regression Tests",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-16T20:09:11+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29530863987",
+  "jobs": [
+    {
+      "job_id": 87730610638,
+      "name": "Screenshots",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87730610638\", id=87730610638)>"
+    }
+  ]
+}

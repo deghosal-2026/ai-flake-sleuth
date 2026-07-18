@@ -1,0 +1,40 @@
+{
+  "run_id": 29587401471,
+  "workflow_name": "Linters",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T14:17:51+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29587401471",
+  "jobs": [
+    {
+      "job_id": 87907696187,
+      "name": "isort",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87907696187\", id=87907696187)>"
+    },
+    {
+      "job_id": 87907696199,
+      "name": "black",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87907696199\", id=87907696199)>"
+    },
+    {
+      "job_id": 87907696202,
+      "name": "zizmor",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87907696202\", id=87907696202)>"
+    },
+    {
+      "job_id": 87907696206,
+      "name": "biome",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87907696206\", id=87907696206)>"
+    },
+    {
+      "job_id": 87907696228,
+      "name": "flake8",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87907696228\", id=87907696228)>"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "run_id": 29584274733,
+  "workflow_name": "Run Integration Tests - all libs (Python 3.10, 3.14)",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-17T13:31:22+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29584274733",
+  "jobs": [
+    {
+      "job_id": 87897231457,
+      "name": "\ud83d\udccb Compute Test Matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897231457\", id=87897231457)>"
+    },
+    {
+      "job_id": 87897248126,
+      "name": "\ud83d\udc0d Python 3.11: libs/deepagents",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897248126\", id=87897248126)>"
+    },
+    {
+      "job_id": 87897248186,
+      "name": "\ud83d\udc0d Python 3.14: libs/deepagents",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897248186\", id=87897248186)>"
+    },
+    {
+      "job_id": 87897249194,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/google-vertexai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249194\", id=87897249194)>"
+    },
+    {
+      "job_id": 87897249248,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/aws",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249248\", id=87897249248)>"
+    },
+    {
+      "job_id": 87897249282,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/mistralai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249282\", id=87897249282)>"
+    },
+    {
+      "job_id": 87897249382,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/openai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249382\", id=87897249382)>"
+    },
+    {
+      "job_id": 87897249441,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/xai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249441\", id=87897249441)>"
+    },
+    {
+      "job_id": 87897249500,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/groq",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249500\", id=87897249500)>"
+    },
+    {
+      "job_id": 87897249531,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/mistralai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249531\", id=87897249531)>"
+    },
+    {
+      "job_id": 87897249550,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/anthropic",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249550\", id=87897249550)>"
+    },
+    {
+      "job_id": 87897249586,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/google-vertexai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249586\", id=87897249586)>"
+    },
+    {
+      "job_id": 87897249596,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/fireworks",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249596\", id=87897249596)>"
+    },
+    {
+      "job_id": 87897249621,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/anthropic",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249621\", id=87897249621)>"
+    },
+    {
+      "job_id": 87897249630,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/fireworks",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249630\", id=87897249630)>"
+    },
+    {
+      "job_id": 87897249685,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/aws",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249685\", id=87897249685)>"
+    },
+    {
+      "job_id": 87897249713,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/openai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249713\", id=87897249713)>"
+    },
+    {
+      "job_id": 87897249718,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/groq",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249718\", id=87897249718)>"
+    },
+    {
+      "job_id": 87897249760,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/xai",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249760\", id=87897249760)>"
+    },
+    {
+      "job_id": 87897249782,
+      "name": "\ud83d\udc0d Python 3.14: libs/partners/google-genai",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249782\", id=87897249782)>"
+    },
+    {
+      "job_id": 87897249784,
+      "name": "\ud83d\udc0d Python 3.10: libs/partners/google-genai",
+      "conclusion": "cancelled",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87897249784\", id=87897249784)>"
+    }
+  ]
+}

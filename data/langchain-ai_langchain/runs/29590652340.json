@@ -1,0 +1,16 @@
+{
+  "run_id": 29590652340,
+  "workflow_name": "\ud83d\ude80 Check Release Dependencies",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-17T15:05:07+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29590652340",
+  "jobs": [
+    {
+      "job_id": 87918596136,
+      "name": "\u2705 Verify release dependencies exist on PyPI",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87918596136\", id=87918596136)>"
+    }
+  ]
+}

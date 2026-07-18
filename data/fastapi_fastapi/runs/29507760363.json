@@ -1,0 +1,28 @@
+{
+  "run_id": 29507760363,
+  "workflow_name": "PR #16013",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T14:41:54+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29507760363",
+  "jobs": [
+    {
+      "job_id": 87652897723,
+      "name": "Analyze (actions)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87652897723\", id=87652897723)>"
+    },
+    {
+      "job_id": 87652897740,
+      "name": "Analyze (javascript-typescript)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87652897740\", id=87652897740)>"
+    },
+    {
+      "job_id": 87652897786,
+      "name": "Analyze (python)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87652897786\", id=87652897786)>"
+    }
+  ]
+}

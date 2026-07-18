@@ -1,0 +1,16 @@
+{
+  "run_id": 29568432514,
+  "workflow_name": "Check migrations",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T09:00:48+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29568432514",
+  "jobs": [
+    {
+      "job_id": 87846299470,
+      "name": "Check test migrations",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87846299470\", id=87846299470)>"
+    }
+  ]
+}

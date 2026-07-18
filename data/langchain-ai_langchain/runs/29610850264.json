@@ -1,0 +1,16 @@
+{
+  "run_id": 29610850264,
+  "workflow_name": "uv in /libs/partners/fireworks for setuptools - Update #1465563898",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:20:42+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610850264",
+  "jobs": [
+    {
+      "job_id": 87984911954,
+      "name": "Dependabot",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984911954\", id=87984911954)>"
+    }
+  ]
+}

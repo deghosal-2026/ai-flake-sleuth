@@ -1,0 +1,16 @@
+{
+  "run_id": 29563571665,
+  "workflow_name": "Close Unchecked Issues",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T07:35:34+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29563571665",
+  "jobs": [
+    {
+      "job_id": 87831063841,
+      "name": "check-boxes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87831063841\", id=87831063841)>"
+    }
+  ]
+}

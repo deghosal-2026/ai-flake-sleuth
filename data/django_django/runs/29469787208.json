@@ -1,0 +1,16 @@
+{
+  "run_id": 29469787208,
+  "workflow_name": "Schedule",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T03:47:14+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29469787208",
+  "jobs": [
+    {
+      "job_id": 87530474017,
+      "name": "Trigger Full Build (main)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87530474017\", id=87530474017)>"
+    }
+  ]
+}

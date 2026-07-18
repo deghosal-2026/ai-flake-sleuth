@@ -1,0 +1,22 @@
+{
+  "run_id": 29611715177,
+  "workflow_name": "retry-tests",
+  "status": "completed",
+  "conclusion": "skipped",
+  "timestamp": "2026-07-17T20:34:43+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29611715177",
+  "jobs": [
+    {
+      "job_id": 87987680446,
+      "name": "report failure to slack",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87987680446\", id=87987680446)>"
+    },
+    {
+      "job_id": 87987711100,
+      "name": "retry failed jobs",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87987711100\", id=87987711100)>"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "run_id": 29553240923,
+  "workflow_name": "Schedule tests",
+  "status": "completed",
+  "conclusion": "failure",
+  "timestamp": "2026-07-17T03:47:25+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29553240923",
+  "jobs": [
+    {
+      "job_id": 87800036201,
+      "name": "Selenium tests, PostgreSQL",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036201\", id=87800036201)>"
+    },
+    {
+      "job_id": 87800036203,
+      "name": "Selenium tests, SQLite",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036203\", id=87800036203)>"
+    },
+    {
+      "job_id": 87800036211,
+      "name": "JavaScript tests",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036211\", id=87800036211)>"
+    },
+    {
+      "job_id": 87800036219,
+      "name": "Byte-compiled Django with no source files (only .pyc files)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036219\", id=87800036219)>"
+    },
+    {
+      "job_id": 87800036250,
+      "name": "Windows, SQLite, Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036250\", id=87800036250)>"
+    },
+    {
+      "job_id": 87800036255,
+      "name": "Windows, SQLite, Python 3.13",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036255\", id=87800036255)>"
+    },
+    {
+      "job_id": 87800036266,
+      "name": "Windows, SQLite, Python 3.12",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036266\", id=87800036266)>"
+    },
+    {
+      "job_id": 87800036285,
+      "name": "PostgreSQL Versions (17, 1)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036285\", id=87800036285)>"
+    },
+    {
+      "job_id": 87800036312,
+      "name": "Windows, SQLite, Python 3.15-dev",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036312\", id=87800036312)>"
+    },
+    {
+      "job_id": 87800036323,
+      "name": "PostgreSQL Versions (16, 1)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036323\", id=87800036323)>"
+    },
+    {
+      "job_id": 87800036325,
+      "name": "PostgreSQL Versions (18, 1)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036325\", id=87800036325)>"
+    },
+    {
+      "job_id": 87800036342,
+      "name": "PostgreSQL Versions (18, 0)",
+      "conclusion": "failure",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036342\", id=87800036342)>"
+    },
+    {
+      "job_id": 87800036373,
+      "name": "PostgreSQL Versions (17, 0)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036373\", id=87800036373)>"
+    },
+    {
+      "job_id": 87800036385,
+      "name": "PostgreSQL Versions (16, 0)",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87800036385\", id=87800036385)>"
+    }
+  ]
+}

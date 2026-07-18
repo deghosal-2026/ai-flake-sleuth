@@ -1,0 +1,34 @@
+{
+  "run_id": 29508966109,
+  "workflow_name": "Build Docs",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T14:57:44+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29508966109",
+  "jobs": [
+    {
+      "job_id": 87657102752,
+      "name": "changes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87657102752\", id=87657102752)>"
+    },
+    {
+      "job_id": 87657134681,
+      "name": "langs",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87657134681\", id=87657134681)>"
+    },
+    {
+      "job_id": 87657135044,
+      "name": "docs-all-green",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87657135044\", id=87657135044)>"
+    },
+    {
+      "job_id": 87657135136,
+      "name": "build-docs",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87657135136\", id=87657135136)>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "run_id": 29493854248,
+  "workflow_name": "Graph Update: pip in /., /docs, /tests/admin_scripts/custom_templates/project_template/additional_dir, /tests/requirements #1463328657",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T11:16:54+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29493854248",
+  "jobs": [
+    {
+      "job_id": 87606082837,
+      "name": "update-pip-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87606082837\", id=87606082837)>"
+    }
+  ]
+}

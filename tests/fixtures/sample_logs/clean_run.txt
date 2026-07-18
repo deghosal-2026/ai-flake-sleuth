@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.0, pytest-8.0.0, pluggy-1.4.0
+rootdir: /home/runner/work/app
+collected 3 items
+
+tests/test_auth.py::test_login PASSED
+tests/test_auth.py::test_logout PASSED
+tests/test_parser.py::test_parse PASSED
+
+=========================== 3 passed in 0.12s ================================

@@ -1,0 +1,22 @@
+{
+  "run_id": 29387396742,
+  "workflow_name": "Playwright Tests",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T03:47:47+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29387396742",
+  "jobs": [
+    {
+      "job_id": 87263403895,
+      "name": "PostgreSQL",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87263403895\", id=87263403895)>"
+    },
+    {
+      "job_id": 87263403904,
+      "name": "SQLite",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87263403904\", id=87263403904)>"
+    }
+  ]
+}

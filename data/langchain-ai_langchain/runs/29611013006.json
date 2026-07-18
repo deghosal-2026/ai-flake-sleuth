@@ -1,0 +1,9 @@
+{
+  "run_id": 29611013006,
+  "workflow_name": "\ud83d\udd27 CI",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-07-17T20:23:26+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29611013006",
+  "jobs": []
+}

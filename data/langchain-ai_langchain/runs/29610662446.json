@@ -1,0 +1,16 @@
+{
+  "run_id": 29610662446,
+  "workflow_name": "Check Version Equality",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:17:32+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610662446",
+  "jobs": [
+    {
+      "job_id": 87984290683,
+      "name": "check_version_equality",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984290683\", id=87984290683)>"
+    }
+  ]
+}

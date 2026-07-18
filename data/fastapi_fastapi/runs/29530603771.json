@@ -1,0 +1,16 @@
+{
+  "run_id": 29530603771,
+  "workflow_name": "Add to Project",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T20:05:24+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29530603771",
+  "jobs": [
+    {
+      "job_id": 87729723590,
+      "name": "Add to project",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87729723590\", id=87729723590)>"
+    }
+  ]
+}

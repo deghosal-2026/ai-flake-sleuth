@@ -1,0 +1,112 @@
+{
+  "run_id": 29610646870,
+  "workflow_name": "\ud83d\udd27 CI",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T20:17:16+00:00",
+  "html_url": "https://github.com/langchain-ai/langchain/actions/runs/29610646870",
+  "jobs": [
+    {
+      "job_id": 87984237478,
+      "name": "Detect Changes & Set Matrix",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984237478\", id=87984237478)>"
+    },
+    {
+      "job_id": 87984237480,
+      "name": "Validate Release Options",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984237480\", id=87984237480)>"
+    },
+    {
+      "job_id": 87984278984,
+      "name": "Extended Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984278984\", id=87984278984)>"
+    },
+    {
+      "job_id": 87984279102,
+      "name": "VCR Cassette Tests",
+      "conclusion": "skipped",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279102\", id=87984279102)>"
+    },
+    {
+      "job_id": 87984279198,
+      "name": "Compile Integration Tests (libs/partners/chroma, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279198\", id=87984279198)>"
+    },
+    {
+      "job_id": 87984279219,
+      "name": "Compile Integration Tests (libs/partners/chroma, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279219\", id=87984279219)>"
+    },
+    {
+      "job_id": 87984279232,
+      "name": "test-pydantic (libs/partners/chroma, 2.11.0, 3.12) / Pydantic ~=2.11.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279232\", id=87984279232)>"
+    },
+    {
+      "job_id": 87984279237,
+      "name": "test-pydantic (libs/partners/chroma, 2.12.0, 3.12) / Pydantic ~=2.12.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279237\", id=87984279237)>"
+    },
+    {
+      "job_id": 87984279243,
+      "name": "test-pydantic (libs/partners/chroma, 2.7.0, 3.12) / Pydantic ~=2.7.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279243\", id=87984279243)>"
+    },
+    {
+      "job_id": 87984279246,
+      "name": "test-pydantic (libs/partners/chroma, 2.8.0, 3.12) / Pydantic ~=2.8.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279246\", id=87984279246)>"
+    },
+    {
+      "job_id": 87984279288,
+      "name": "test-pydantic (libs/partners/chroma, 2.9.0, 3.12) / Pydantic ~=2.9.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279288\", id=87984279288)>"
+    },
+    {
+      "job_id": 87984279304,
+      "name": "lint (libs/partners/chroma, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279304\", id=87984279304)>"
+    },
+    {
+      "job_id": 87984279305,
+      "name": "test-pydantic (libs/partners/chroma, 2.10.0, 3.12) / Pydantic ~=2.10.0",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279305\", id=87984279305)>"
+    },
+    {
+      "job_id": 87984279360,
+      "name": "lint (libs/partners/chroma, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279360\", id=87984279360)>"
+    },
+    {
+      "job_id": 87984279378,
+      "name": "test (libs/partners/chroma, 3.10) / Python 3.10",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279378\", id=87984279378)>"
+    },
+    {
+      "job_id": 87984279406,
+      "name": "test (libs/partners/chroma, 3.14) / Python 3.14",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87984279406\", id=87984279406)>"
+    },
+    {
+      "job_id": 87985008983,
+      "name": "\u2705 CI Success",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/langchain-ai/langchain/actions/jobs/87985008983\", id=87985008983)>"
+    }
+  ]
+}

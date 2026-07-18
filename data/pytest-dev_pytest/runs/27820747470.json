@@ -1,0 +1,40 @@
+{
+  "run_id": 27820747470,
+  "workflow_name": "deploy",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-06-19T10:38:08+00:00",
+  "html_url": "https://github.com/pytest-dev/pytest/actions/runs/27820747470",
+  "jobs": [
+    {
+      "job_id": 82332985743,
+      "name": "package",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82332985743\", id=82332985743)>"
+    },
+    {
+      "job_id": 82333071867,
+      "name": "generate-gh-release-notes",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82333071867\", id=82333071867)>"
+    },
+    {
+      "job_id": 82333139058,
+      "name": "publish-to-pypi",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82333139058\", id=82333139058)>"
+    },
+    {
+      "job_id": 82336047081,
+      "name": "push-tag",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82336047081\", id=82336047081)>"
+    },
+    {
+      "job_id": 82336081898,
+      "name": "create-github-release",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/pytest-dev/pytest/actions/jobs/82336081898\", id=82336081898)>"
+    }
+  ]
+}

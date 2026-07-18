@@ -1,0 +1,16 @@
+{
+  "run_id": 29626494507,
+  "workflow_name": "Poll React Sync",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-18T02:07:51+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29626494507",
+  "jobs": [
+    {
+      "job_id": 88031850480,
+      "name": "poll",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/88031850480\", id=88031850480)>"
+    }
+  ]
+}

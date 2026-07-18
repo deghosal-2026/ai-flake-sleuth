@@ -1,0 +1,16 @@
+{
+  "run_id": 29524612992,
+  "workflow_name": "Coverage Comment",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T18:36:07+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29524612992",
+  "jobs": [
+    {
+      "job_id": 87709771488,
+      "name": "Post Coverage Comment",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87709771488\", id=87709771488)>"
+    }
+  ]
+}

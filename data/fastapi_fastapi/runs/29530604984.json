@@ -1,0 +1,16 @@
+{
+  "run_id": 29530604984,
+  "workflow_name": "Issue Manager",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T20:05:26+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29530604984",
+  "jobs": [
+    {
+      "job_id": 87729727791,
+      "name": "issue-manager",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87729727791\", id=87729727791)>"
+    }
+  ]
+}

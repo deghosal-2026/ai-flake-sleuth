@@ -1,0 +1,22 @@
+{
+  "run_id": 29524336942,
+  "workflow_name": "Labels",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T18:32:12+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29524336942",
+  "jobs": [
+    {
+      "job_id": 87708853784,
+      "name": "labeler",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87708853784\", id=87708853784)>"
+    },
+    {
+      "job_id": 87708873488,
+      "name": "check-labels",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87708873488\", id=87708873488)>"
+    }
+  ]
+}

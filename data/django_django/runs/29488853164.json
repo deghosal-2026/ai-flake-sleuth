@@ -1,0 +1,9 @@
+{
+  "run_id": 29488853164,
+  "workflow_name": "Check commit prefix",
+  "status": "completed",
+  "conclusion": "cancelled",
+  "timestamp": "2026-07-16T09:54:01+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29488853164",
+  "jobs": []
+}

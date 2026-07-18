@@ -1,0 +1,16 @@
+{
+  "run_id": 29586126213,
+  "workflow_name": "Configured Graph Update: uv in /. #1465121988",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T13:59:27+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29586126213",
+  "jobs": [
+    {
+      "job_id": 87903453482,
+      "name": "update-uv-graph",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87903453482\", id=87903453482)>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "run_id": 29415196343,
+  "workflow_name": "Deploy Docs",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T12:26:07+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29415196343",
+  "jobs": [
+    {
+      "job_id": 87351458545,
+      "name": "deploy-docs",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87351458545\", id=87351458545)>"
+    }
+  ]
+}

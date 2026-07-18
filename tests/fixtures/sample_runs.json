@@ -1,0 +1,82 @@
+[
+  {
+    "run_id": 1001,
+    "workflow_name": "CI",
+    "status": "completed",
+    "conclusion": "failure",
+    "timestamp": "2026-07-16T10:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1001"
+  },
+  {
+    "run_id": 1002,
+    "workflow_name": "CI",
+    "status": "completed",
+    "conclusion": "failure",
+    "timestamp": "2026-07-16T09:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1002"
+  },
+  {
+    "run_id": 1003,
+    "workflow_name": "CI",
+    "status": "completed",
+    "conclusion": "success",
+    "timestamp": "2026-07-16T08:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1003"
+  },
+  {
+    "run_id": 1004,
+    "workflow_name": "Lint",
+    "status": "completed",
+    "conclusion": "failure",
+    "timestamp": "2026-07-15T12:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1004"
+  },
+  {
+    "run_id": 1005,
+    "workflow_name": "CI",
+    "status": "completed",
+    "conclusion": "success",
+    "timestamp": "2026-07-15T10:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1005"
+  },
+  {
+    "run_id": 1006,
+    "workflow_name": "CI",
+    "status": "completed",
+    "conclusion": "failure",
+    "timestamp": "2026-07-15T08:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1006"
+  },
+  {
+    "run_id": 1007,
+    "workflow_name": "Docs",
+    "status": "completed",
+    "conclusion": "success",
+    "timestamp": "2026-07-14T14:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1007"
+  },
+  {
+    "run_id": 1008,
+    "workflow_name": "CI",
+    "status": "completed",
+    "conclusion": "failure",
+    "timestamp": "2026-07-14T12:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1008"
+  },
+  {
+    "run_id": 1009,
+    "workflow_name": "CI",
+    "status": "completed",
+    "conclusion": "success",
+    "timestamp": "2026-07-14T10:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1009"
+  },
+  {
+    "run_id": 1010,
+    "workflow_name": "Lint",
+    "status": "completed",
+    "conclusion": "failure",
+    "timestamp": "2026-07-14T08:00:00Z",
+    "html_url": "https://github.com/pytest-dev/pytest/actions/runs/1010"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "run_id": 29601355212,
+  "workflow_name": "PR CI Comment",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T17:46:52+00:00",
+  "html_url": "https://github.com/vercel/next.js/actions/runs/29601355212",
+  "jobs": [
+    {
+      "job_id": 87953965793,
+      "name": "Comment on PR",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/vercel/next.js/actions/jobs/87953965793\", id=87953965793)>"
+    }
+  ]
+}

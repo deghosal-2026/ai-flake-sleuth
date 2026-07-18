@@ -1,0 +1,22 @@
+{
+  "run_id": 29415106019,
+  "workflow_name": "Test Redistribute",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-15T12:24:42+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29415106019",
+  "jobs": [
+    {
+      "job_id": 87351164266,
+      "name": "test-redistribute",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87351164266\", id=87351164266)>"
+    },
+    {
+      "job_id": 87351369375,
+      "name": "test-redistribute-alls-green",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87351369375\", id=87351369375)>"
+    }
+  ]
+}

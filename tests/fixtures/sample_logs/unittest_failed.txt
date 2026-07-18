@@ -1,0 +1,24 @@
+test_login_redirect (test_auth.TestAuth) ... FAIL
+test_logout (test_auth.TestAuth) ... ok
+test_edge_case (test_parser.TestParser) ... ERROR
+
+======================================================================
+FAIL: test_login_redirect (test_auth.TestAuth)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/app/test_auth.py", line 42, in test_login_redirect
+    self.assertEqual(response.status_code, 302)
+AssertionError: 200 != 302
+
+======================================================================
+ERROR: test_edge_case (test_parser.TestParser)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/app/test_parser.py", line 87, in test_edge_case
+    result = process_data(data)
+KeyError: 'status'
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.25s
+
+FAILED (failures=1, errors=1)

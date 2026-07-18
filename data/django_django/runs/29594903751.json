@@ -1,0 +1,22 @@
+{
+  "run_id": 29594903751,
+  "workflow_name": "GeoDjango Tests",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-17T16:07:15+00:00",
+  "html_url": "https://github.com/django/django/actions/runs/29594903751",
+  "jobs": [
+    {
+      "job_id": 87932810746,
+      "name": "PostgreSQL 17",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87932810746\", id=87932810746)>"
+    },
+    {
+      "job_id": 87932810788,
+      "name": "PostgreSQL 18",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/django/django/actions/jobs/87932810788\", id=87932810788)>"
+    }
+  ]
+}

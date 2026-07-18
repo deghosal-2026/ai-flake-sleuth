@@ -1,0 +1,16 @@
+{
+  "run_id": 29524783021,
+  "workflow_name": "Conflict detector",
+  "status": "completed",
+  "conclusion": "success",
+  "timestamp": "2026-07-16T18:38:39+00:00",
+  "html_url": "https://github.com/fastapi/fastapi/actions/runs/29524783021",
+  "jobs": [
+    {
+      "job_id": 87710376229,
+      "name": "main",
+      "conclusion": "success",
+      "logs_url": "<bound method WorkflowJob.logs_url of WorkflowJob(url=\"https://api.github.com/repos/fastapi/fastapi/actions/jobs/87710376229\", id=87710376229)>"
+    }
+  ]
+}
