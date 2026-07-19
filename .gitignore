@@ -223,3 +223,6 @@ __marimo__/
 # Log ZIPs are large and regenerable — don't track them in git
 data/
 runs/
+
+# macOS
+.DS_Store
