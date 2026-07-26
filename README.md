@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue)](pyproject.toml)
 [![PyPI](https://img.shields.io/pypi/v/ai-flake-sleuth)](https://pypi.org/project/ai-flake-sleuth/)
 [![CI](https://github.com/deghosal-2026/ai-flake-sleuth/actions/workflows/ci.yml/badge.svg)](https://github.com/deghosal-2026/ai-flake-sleuth/actions)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13797/badge)](https://www.bestpractices.dev/projects/13797)
 
 **LangGraph agent that diagnoses flaky CI tests across 12 test frameworks and 5 languages.** Fetches GitHub Actions run history, parses test output from CI logs, classifies failures (real bug vs. flaky vs. infra) using rules + LLM, and produces a CI health report.
 
