@@ -32,6 +32,14 @@ We use conventional commits:
 - `test:` — test additions
 - `refactor:` — code restructuring
 
+## Testing Policy
+
+- **Every new feature must include tests.** Major functionality added to the codebase must be accompanied by automated tests in the test suite.
+- **Coverage targets:** Aim for ≥80% line coverage on new code. Pull requests that reduce overall coverage below the fail_under threshold will be flagged.
+- **Test types:** Prefer unit tests for business logic, integration tests for API routes.
+- **Running tests:** `pytest` — ensure all tests pass before opening a PR.
+- **Test data:** Use fixtures and factories rather than production data. Never commit real credentials or tokens.
+
 ## PR Process
 
 1. Fork the repository

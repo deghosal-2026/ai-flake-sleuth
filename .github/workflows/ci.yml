@@ -38,3 +38,22 @@ jobs:
       - name: Upload coverage
         uses: codecov/codecov-action@v4
         if: success()
+
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pip-audit bandit
+      - run: pip-audit
+      - run: bandit -c pyproject.toml -r src/ -ll
+
+  secrets-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: trufflesecurity/trufflehog@v3
+        with:
+          extra_args: --results=verified --no-fail
