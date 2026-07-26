@@ -17,6 +17,12 @@ pytest --cov=flake_sleuth  # With coverage
 
 ## Linting and Type Checking
 
+All contributions must follow these coding standards:
+
+- **Python:** [PEP 8](https://peps.python.org/pep-0008/) via Ruff with the ruleset in [`pyproject.toml`](pyproject.toml). Line length 100.
+- **Type safety:** mypy strict mode on all source code.
+- **Commit messages:** [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `docs:`, `test:`).
+
 ```bash
 ruff check src/ tests/     # Lint
 mypy src/                  # Type check
