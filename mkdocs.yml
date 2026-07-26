@@ -1,0 +1,9 @@
+site_name: ai-flake-sleuth
+site_description: LangGraph agent that diagnoses flaky CI tests and suggests fixes
+nav:
+  - Home: index.md
+  - Field Study Plan: field-study-plan.md
+  - Field Study Results: field-study-results.md
+  - PRD: PRD.md
+  - SPEC: SPEC.md
+  - WBS: WBS.md
