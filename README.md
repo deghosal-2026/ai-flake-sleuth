@@ -334,3 +334,9 @@ pytest --cov=flake_sleuth --cov-report=term-missing
 ## License
 
 MIT
+
+## Resources
+
+- **Issues:** [github.com/deghosal-2026/ai-flake-sleuth/issues](https://github.com/deghosal-2026/ai-flake-sleuth/issues) — bug reports and feature requests
+- **Security:** [SECURITY.md](SECURITY.md) — report vulnerabilities privately
+- **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md) — coding standards and PR process
